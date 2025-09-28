@@ -1,0 +1,1001 @@
+Province,TotalSessions,DistinctViewers,Race,MaleUsers,FemaleUsers,TotalUsers,Gender,SessionPercentage,AgeCohort,DayOfWeek,SessionDate_SA,HourOfDay,Channel,TotalDurationInSeconds,SessionStartTime_SA,Email,Social Media Handle
+Mpumalanga,2,1,coloured,2,0,2,male,0.02,Adult (25-34),5,2016/02/18,9,Supersport Live Events,3.51E+09,50:00.0,Len 443@mail.com,@Len 44
+Gauteng,2,1,white,2,0,2,male,0.02,Retired (55+),1,2016/02/21,18,Africa Magic,3.51E+09,46:00.0,Carter 34@abcmail.com,@Carter 3
+Eastern Cape,2,1,coloured,0,2,2,female,0.02,Adult (25-34),6,2016/02/19,6,Channel O,3.51E+09,30:00.0,Minerva 372@gmail.com,@Minerva 37
+Limpopo,2,1,indian_asian,2,0,2,male,0.02,Adult (25-34),4,2016/03/30,15,ICC Cricket World Cup 2011,3.51E+09,49:00.0,Michel 202@gmail.com,@Michel 20
+Gauteng,2,1,black,2,0,2,male,0.02,Middle-Aged Adult (45-54),4,2016/02/03,13,DStv Events 1,3.51E+09,22:00.0,Eli 291@yahoo.com,@Eli 29
+Gauteng,2,1,black,2,0,2,male,0.02,Mature Adult (35-44),2,2016/01/11,19,Africa Magic,3.51E+09,56:00.0,Stephen 151@yahoo.com,@Stephen 15
+Eastern Cape,2,1,black,2,0,2,male,0.02,Adult (25-34),6,2016/01/08,22,Channel O,3.51E+09,47:00.0,Stephen 153@mail.com,@Stephen 15
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),3,2016/03/29,22,Trace TV,1.76E+09,22:00.0,Donald 221@yahoo.com,@Donald 22
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/18,20,CNN,1.76E+09,11:00.0,Len 441@yahoo.com,@Len 44
+Western Cape,1,1,coloured,1,0,1,male,0.01,Youth (18-24),2,2016/01/25,22,Trace TV,1.76E+09,01:00.0,Charlie 365@mailxyz.com,@Charlie 36
+Western Cape,1,1,other,1,0,1,male,0.01,Youth (18-24),6,2016/03/18,10,ICC Cricket World Cup 2011,1.76E+09,30:00.0,Jacinto 252@gmail.com,@Jacinto 25
+Mpumalanga,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),1,2016/01/10,9,Channel O,1.76E+09,36:00.0,Stephen 151@yahoo.com,@Stephen 15
+Mpumalanga,1,1,None,1,0,1,male,0.01,Middle-Aged Adult (45-54),5,2016/03/17,15,CNN,1.76E+09,42:00.0,Wilburn 304@abcmail.com,@Wilburn 30
+Gauteng,1,1,None,1,0,1,male,0.01,Youth (18-24),4,2016/03/30,13,ICC Cricket World Cup 2011,1.76E+09,57:00.0,Eli 292@gmail.com,@Eli 29
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),1,2016/01/24,21,CNN,1.76E+09,37:00.0,Earl 424@abcmail.com,@Earl 42
+Mpumalanga,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),2,2016/01/18,15,SuperSport Blitz,1.76E+09,42:00.0,Brendan 452@gmail.com,@Brendan 45
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Retired (55+),3,2016/03/08,8,Cartoon Network,1.76E+09,22:00.0,Efren 132@gmail.com,@Efren 13
+Limpopo,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/03/22,1,CNN,1.76E+09,20:00.0,Chas 351@yahoo.com,@Chas 35
+Western Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/12,20,SuperSport Blitz,1.76E+09,26:00.0,Emerson 242@gmail.com,@Emerson 24
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),4,2016/01/06,8,Trace TV,1.76E+09,52:00.0,Lucas 235@mailxyz.com,@Lucas 23
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/01/12,22,SuperSport Blitz,1.76E+09,32:00.0,Stephen 155@mailxyz.com,@Stephen 15
+Gauteng,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/19,10,ICC Cricket World Cup 2011,1.76E+09,40:00.0,Lane 111@yahoo.com,@Lane 11
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/02/11,12,Supersport Live Events,1.76E+09,02:00.0,Hugh11@yahoo.com,@Hugh1
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/29,11,ICC Cricket World Cup 2011,1.76E+09,45:00.0,Michel 202@gmail.com,@Michel 20
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/01/12,12,Channel O,1.76E+09,41:00.0,Eli 293@mail.com,@Eli 29
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,15,ICC Cricket World Cup 2011,1.76E+09,56:00.0,Lucas 235@mailxyz.com,@Lucas 23
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),7,2016/02/20,8,Trace TV,1.76E+09,31:00.0,Charlie 361@yahoo.com,@Charlie 36
+Western Cape,1,1,coloured,1,0,1,male,0.01,Youth (18-24),6,2016/01/15,1,SuperSport Blitz,1.76E+09,09:00.0,Abel 183@mail.com,@Abel 18
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/03/05,15,ICC Cricket World Cup 2011,1.76E+09,29:00.0,Shane 24@abcmail.com,@Shane 2
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/30,21,Boomerang,1.76E+09,19:00.0,Jacinto 254@abcmail.com,@Jacinto 25
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/02/01,19,Supersport Live Events,1.76E+09,09:00.0,Jared 505@mailxyz.com,@Jared 50
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/02/05,18,Supersport Live Events,1.76E+09,56:00.0,Michel 205@mailxyz.com,@Michel 20
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),3,2016/03/08,6,Boomerang,1.76E+09,46:00.0,Kip 143@mail.com,@Kip 14
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/02/19,13,Supersport Live Events,1.76E+09,51:00.0,Samuel 262@gmail.com,@Samuel 26
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/03/02,10,ICC Cricket World Cup 2011,1.76E+09,56:00.0,Haywood 91@yahoo.com,@Haywood 9
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),4,2016/03/02,17,SuperSport Blitz,1.76E+09,23:00.0,Eula 495@mailxyz.com,None
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,10,SuperSport Blitz,1.76E+09,35:00.0,Garry 283@mail.com,@Garry 28
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/01/14,12,E! Entertainment,1.76E+09,07:00.0,Lane 111@yahoo.com,@Lane 11
+Western Cape,1,1,white,1,0,1,male,0.01,Adult (25-34),5,2016/03/24,18,Supersport Live Events,1.76E+09,46:00.0,Earl 422@gmail.com,@Earl 42
+Eastern Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/22,8,Supersport Live Events,1.76E+09,57:00.0,Donald 221@yahoo.com,@Donald 22
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/01/19,13,Supersport Live Events,1.76E+09,22:00.0,Efren 132@gmail.com,@Efren 13
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),5,2016/03/24,21,Boomerang,1.76E+09,11:00.0,Efren 133@mail.com,@Efren 13
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/01/17,15,Trace TV,1.76E+09,07:00.0,Stacy 275@mailxyz.com,@Stacy 27
+Mpumalanga,1,1,black,0,1,1,female,0.01,Adult (25-34),6,2016/03/25,10,Supersport Live Events,1.76E+09,20:00.0,Roxane 285@mailxyz.com,@Roxane 28
+North West,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/02/16,14,SuperSport Blitz,1.76E+09,26:00.0,Claud 343@mail.com,@Claud 34
+North West,1,1,white,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/01/23,11,Supersport Live Events,1.76E+09,46:00.0,Cody 121@yahoo.com,@Cody 12
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/19,14,Supersport Live Events,1.76E+09,54:00.0,Garry 283@mail.com,@Garry 28
+Western Cape,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),5,2016/01/21,21,CNN,1.76E+09,04:00.0,Charlie 364@abcmail.com,@Charlie 36
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/24,12,Supersport Live Events,1.76E+09,46:00.0,Jacinto 251@yahoo.com,@Jacinto 25
+Eastern Cape,1,1,black,1,0,1,male,0.01,Youth (18-24),4,2016/01/27,12,Supersport Live Events,1.76E+09,47:00.0,Lane 111@yahoo.com,@Lane 11
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,20,Channel O,1.76E+09,21:00.0,Jared 505@mailxyz.com,@Jared 50
+Eastern Cape,1,1,black,0,1,1,female,0.01,Kids (0-17),2,2016/02/22,18,Cartoon Network,1.76E+09,20:00.0,Anette 233@mail.com,@Anette 23
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/01/16,20,Supersport Live Events,1.76E+09,11:00.0,Charlie 363@mail.com,@Charlie 36
+North West,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),1,2016/02/21,10,Africa Magic,1.76E+09,08:00.0,Royal 174@abcmail.com,@Royal 17
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),1,2016/02/14,21,Africa Magic,1.76E+09,12:00.0,Charlie 364@abcmail.com,@Charlie 36
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),5,2016/01/14,9,Cartoon Network,1.76E+09,17:00.0,Lucas 235@mailxyz.com,@Lucas 23
+Western Cape,1,1,black,1,0,1,male,0.01,Youth (18-24),3,2016/03/01,14,SuperSport Blitz,1.76E+09,10:00.0,Randy 395@mailxyz.com,@Randy 39
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/02/18,0,Cartoon Network,1.76E+09,03:00.0,Lucas 234@abcmail.com,@Lucas 23
+Limpopo,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/01/02,23,Cartoon Network,1.76E+09,59:00.0,Romeo 372@gmail.com,@Romeo 37
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/02/13,12,Wimbledon,1.76E+09,38:00.0,Kyle 64@abcmail.com,@Kyle 6
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/01/01,8,SawSee,1.76E+09,59:00.0,Garry 282@gmail.com,@Garry 28
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/30,10,ICC Cricket World Cup 2011,1.76E+09,43:00.0,Shane 22@gmail.com,@Shane 2
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/01/08,18,Supersport Live Events,1.76E+09,40:00.0,Stephen 153@mail.com,@Stephen 15
+Eastern Cape,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),1,2016/03/27,21,CNN,1.76E+09,16:00.0,Lucas 231@yahoo.com,@Lucas 23
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),4,2016/01/06,16,Supersport Live Events,1.76E+09,24:00.0,Filiberto 41@yahoo.com,@Filiberto 4
+Eastern Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/05,9,SuperSport Blitz,1.76E+09,06:00.0,Randy 391@yahoo.com,@Randy 39
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/08,19,Cartoon Network,1.76E+09,35:00.0,Shane 23@mail.com,@Shane 2
+Western Cape,1,1,white,1,0,1,male,0.01,Retired (55+),7,2016/02/20,20,CNN,1.76E+09,34:00.0,Stephen 152@gmail.com,@Stephen 15
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/03/28,7,CNN,1.76E+09,46:00.0,Lloyd 73@mail.com,@Lloyd 7
+Western Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/03/31,6,Trace TV,1.76E+09,10:00.0,Lucas 232@gmail.com,@Lucas 23
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),5,2016/03/10,11,SuperSport Blitz,1.76E+09,17:00.0,Raymundo 432@gmail.com,@Raymundo 43
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/01/03,1,Channel O,1.76E+09,58:00.0,Chas 351@yahoo.com,@Chas 35
+Mpumalanga,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),2,2016/03/28,1,Boomerang,1.76E+09,23:00.0,Markus 192@gmail.com,@Markus 19
+Western Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/03/13,0,Africa Magic,1.76E+09,52:00.0,Hyman 81@yahoo.com,@Hyman 8
+North West,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/04,19,SuperSport Blitz,1.76E+09,19:00.0,Cory 102@gmail.com,@Cory 10
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/03/12,17,ICC Cricket World Cup 2011,1.76E+09,50:00.0,Claud 345@mailxyz.com,@Claud 34
+Gauteng,1,1,white,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/02/24,11,Trace TV,1.76E+09,13:00.0,Robby 162@gmail.com,@Robby 16
+Eastern Cape,1,1,white,1,0,1,male,0.01,Youth (18-24),4,2016/03/02,6,Trace TV,1.76E+09,59:00.0,Bret 312@gmail.com,@Bret 31
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/30,14,ICC Cricket World Cup 2011,1.76E+09,19:00.0,Claud 345@mailxyz.com,@Claud 34
+Limpopo,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/02/09,17,Africa Magic,1.76E+09,16:00.0,Bernardo 324@abcmail.com,@Bernardo 32
+Limpopo,1,1,black,0,1,1,female,0.01,Mature Adult (35-44),2,2016/03/14,21,Africa Magic,1.76E+09,23:00.0,Winona 112@gmail.com,@Winona 11
+Gauteng,1,1,white,0,1,1,female,0.01,Adult (25-34),1,2016/03/13,20,Cartoon Network,1.76E+09,21:00.0,Lillian 231@yahoo.com,@Lillian 23
+Western Cape,1,1,coloured,1,0,1,male,0.01,Youth (18-24),3,2016/02/09,20,Channel O,1.76E+09,24:00.0,Romeo 375@mailxyz.com,@Romeo 37
+Gauteng,1,1,coloured,1,0,1,male,0.01,Youth (18-24),7,2016/01/02,11,Cartoon Network,1.76E+09,22:00.0,Stefan 463@mail.com,@Stefan 46
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/26,11,Supersport Live Events,1.76E+09,08:00.0,Lane 111@yahoo.com,@Lane 11
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),7,2016/03/26,11,ICC Cricket World Cup 2011,1.76E+09,21:00.0,Abel 182@gmail.com,@Abel 18
+Northern Cape,1,1,white,1,0,1,male,0.01,Youth (18-24),5,2016/02/18,8,Supersport Live Events,1.76E+09,58:00.0,Carter 34@abcmail.com,@Carter 3
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/10,19,SuperSport Blitz,1.76E+09,59:00.0,Earl 425@mailxyz.com,@Earl 42
+Kwazulu Natal,1,1,white,0,1,1,female,0.01,Mature Adult (35-44),3,2016/01/05,16,Supersport Live Events,1.76E+09,48:00.0,Iva 265@mailxyz.com,@Iva 26
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),7,2016/02/13,19,SuperSport Live Events,1.76E+09,56:00.0,Wilburn 305@mailxyz.com,@Wilburn 30
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),7,2016/01/23,20,Supersport Live Events,1.76E+09,04:00.0,Len 441@yahoo.com,@Len 44
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),3,2016/02/23,15,Cartoon Network,1.76E+09,11:00.0,Chas 354@abcmail.com,@Chas 35
+Western Cape,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),2,2016/03/07,14,ICC Cricket World Cup 2011,1.76E+09,42:00.0,Jacinto 253@mail.com,@Jacinto 25
+Western Cape,1,1,white,0,1,1,female,0.01,Retired (55+),3,2016/02/02,22,Cartoon Network,1.76E+09,22:00.0,Seema 265@mailxyz.com,@Seema 26
+Gauteng,1,1,coloured,1,0,1,male,0.01,Youth (18-24),4,2016/03/16,0,ICC Cricket World Cup 2011,1.76E+09,32:00.0,Chas 355@mailxyz.com,@Chas 35
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/07,23,E! Entertainment,1.76E+09,49:00.0,Valentine 472@gmail.com,@Valentine 47
+Gauteng,1,1,coloured,0,1,1,female,0.01,Adult (25-34),3,2016/03/15,11,ICC Cricket World Cup 2011,1.76E+09,28:00.0,Torrie 245@mailxyz.com,@Torrie 24
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/01/13,22,Channel O,1.76E+09,28:00.0,Stephen 153@mail.com,@Stephen 15
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/05,20,Supersport Live Events,1.76E+09,08:00.0,Bernardo 323@mail.com,@Bernardo 32
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Kids (0-17),7,2016/03/12,11,ICC Cricket World Cup 2011,1.76E+09,38:00.0,Shane 22@gmail.com,@Shane 2
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/19,7,Channel O,1.76E+09,34:00.0,Kip 143@mail.com,@Kip 14
+Western Cape,1,1,coloured,0,1,1,female,0.01,Adult (25-34),6,2016/01/22,16,Trace TV,1.76E+09,59:00.0,Gretta 334@abcmail.com,@Gretta 33
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),2,2016/03/07,14,Trace TV,1.76E+09,01:00.0,Romeo 371@yahoo.com,@Romeo 37
+Limpopo,1,1,other,0,1,1,female,0.01,Mature Adult (35-44),6,2016/02/12,8,E! Entertainment,1.76E+09,14:00.0,Reagan 142@gmail.com,@Reagan 14
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),1,2016/02/07,7,CNN,1.76E+09,08:00.0,Garry 281@yahoo.com,@Garry 28
+Mpumalanga,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/08,19,Supersport Live Events,1.76E+09,36:00.0,Raymundo 431@yahoo.com,@Raymundo 43
+Gauteng,1,1,None,0,1,1,female,0.01,Adult (25-34),3,2016/03/08,0,Boomerang,1.76E+09,21:00.0,Torrie 142@gmail.com,@Torrie 14
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),4,2016/03/16,12,ICC Cricket World Cup 2011,1.76E+09,16:00.0,Shandra 165@mailxyz.com,None
+Gauteng,1,1,None,1,0,1,male,0.01,Adult (25-34),7,2016/01/23,8,Channel O,1.76E+09,26:00.0,Hugh15@mailxyz.com,@Hugh1
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/01/22,19,Supersport Live Events,1.76E+09,30:00.0,Efren 133@mail.com,@Efren 13
+Western Cape,1,1,black,0,1,1,female,0.01,Kids (0-17),7,2016/02/27,12,ICC Cricket World Cup 2011,1.76E+09,05:00.0,Loris 91@yahoo.com,@Loris 9
+Mpumalanga,1,1,None,1,0,1,male,0.01,Adult (25-34),5,2016/02/18,7,Supersport Live Events,1.76E+09,56:00.0,Romeo 373@mail.com,@Romeo 37
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/02/04,19,Vuzu,1.76E+09,58:00.0,Bret 315@mailxyz.com,@Bret 31
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),1,2016/03/13,20,ICC Cricket World Cup 2011,1.76E+09,20:00.0,Efren 131@yahoo.com,@Efren 13
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),1,2016/02/07,23,MK,1.76E+09,00:00.0,Abel 183@mail.com,@Abel 18
+Kwazulu Natal,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/23,10,SuperSport Blitz,1.76E+09,30:00.0,Haywood 91@yahoo.com,@Haywood 9
+Limpopo,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/26,10,ICC Cricket World Cup 2011,1.76E+09,56:00.0,Romeo 374@abcmail.com,@Romeo 37
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),5,2016/03/10,21,Channel O,1.76E+09,04:00.0,Royal 175@mailxyz.com,@Royal 17
+Free State,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/13,8,ICC Cricket World Cup 2011,1.76E+09,09:00.0,Stefan 461@yahoo.com,@Stefan 46
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),7,2016/03/26,23,SawSee,1.76E+09,04:00.0,Felipa 391@yahoo.com,None
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/29,5,Channel O,1.76E+09,02:00.0,Emerson 243@mail.com,@Emerson 24
+Gauteng,1,1,None,1,0,1,male,0.01,Adult (25-34),7,2016/03/05,10,ICC Cricket World Cup 2011,1.76E+09,51:00.0,Bret 312@gmail.com,@Bret 31
+Eastern Cape,1,1,white,0,1,1,female,0.01,Kids (0-17),6,2016/03/18,18,Boomerang,1.76E+09,56:00.0,Shelley 234@abcmail.com,@Shelley 23
+Gauteng,1,1,black,0,1,1,female,0.01,Adult (25-34),3,2016/03/29,18,Africa Magic,1.76E+09,03:00.0,Cordie 345@mailxyz.com,@Cordie 34
+Eastern Cape,1,1,black,1,0,1,male,0.01,Retired (55+),6,2016/03/11,1,Cartoon Network,1.76E+09,03:00.0,Abel 182@gmail.com,@Abel 18
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),4,2016/03/23,13,ICC Cricket World Cup 2011,1.76E+09,35:00.0,Shane 23@mail.com,@Shane 2
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/03/02,6,CNN,1.76E+09,03:00.0,Valentine 472@gmail.com,@Valentine 47
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),5,2016/03/10,21,Boomerang,1.76E+09,51:00.0,Wilton 411@yahoo.com,@Wilton 41
+Gauteng,1,1,None,1,0,1,male,0.01,Adult (25-34),3,2016/02/02,9,CNN,1.76E+09,38:00.0,Jacinto 254@abcmail.com,@Jacinto 25
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/22,22,Cartoon Network,1.76E+09,49:00.0,Shane 23@mail.com,@Shane 2
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/25,9,ICC Cricket World Cup 2011,1.76E+09,46:00.0,Hyman 84@abcmail.com,@Hyman 8
+Western Cape,1,1,white,0,1,1,female,0.01,Mature Adult (35-44),3,2016/03/01,22,Boomerang,1.76E+09,12:00.0,Tiffani 415@mailxyz.com,@Tiffani 41
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),1,2016/02/21,18,Channel O,1.76E+09,12:00.0,Jared 503@mail.com,@Jared 50
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/03/04,7,Supersport Live Events,1.76E+09,52:00.0,Garry 282@gmail.com,@Garry 28
+North West,1,1,black,0,1,1,female,0.01,Youth (18-24),4,2016/03/02,16,SuperSport Blitz,1.76E+09,44:00.0,Earline 375@mailxyz.com,@Earline 37
+Eastern Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/30,14,E! Entertainment,1.76E+09,04:00.0,Jared 503@mail.com,@Jared 50
+Western Cape,1,1,None,1,0,1,male,0.01,Adult (25-34),7,2016/03/19,13,Supersport Live Events,1.76E+09,01:00.0,Lucas 231@yahoo.com,@Lucas 23
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/30,19,ICC Cricket World Cup 2011,1.76E+09,02:00.0,Lloyd 75@mailxyz.com,@Lloyd 7
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/02/03,13,CNN,1.76E+09,50:00.0,Abel 182@gmail.com,@Abel 18
+Gauteng,1,1,white,1,0,1,male,0.01,Youth (18-24),5,2016/03/24,15,Supersport Live Events,1.76E+09,07:00.0,Jared 505@mailxyz.com,@Jared 50
+Free State,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/26,11,Supersport Live Events,1.76E+09,36:00.0,Robby 162@gmail.com,@Robby 16
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/19,10,Boomerang,1.76E+09,44:00.0,Len 441@yahoo.com,@Len 44
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/01,7,SuperSport Blitz,1.76E+09,22:00.0,Len 443@mail.com,@Len 44
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/03,19,CNN,1.76E+09,14:00.0,Abel 183@mail.com,@Abel 18
+Gauteng,1,1,white,1,0,1,male,0.01,Youth (18-24),4,2016/01/06,22,SuperSport Blitz,1.76E+09,20:00.0,Dee 215@mailxyz.com,@Dee 21
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/25,8,Boomerang,1.76E+09,21:00.0,Markus 195@mailxyz.com,@Markus 19
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),5,2016/01/07,0,Cartoon Network,1.76E+09,31:00.0,Markus 191@yahoo.com,@Markus 19
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Retired (55+),4,2016/03/30,13,ICC Cricket World Cup 2011,1.76E+09,50:00.0,Hyman 85@mailxyz.com,@Hyman 8
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/03/20,10,Channel O,1.76E+09,27:00.0,Dee 212@gmail.com,@Dee 21
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),3,2016/03/29,1,DStv Events 1,1.76E+09,31:00.0,Reagan 282@gmail.com,None
+Free State,1,1,black,1,0,1,male,0.01,Youth (18-24),2,2016/03/14,22,Channel O,1.76E+09,34:00.0,Robby 163@mail.com,@Robby 16
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),2,2016/03/28,10,Boomerang,1.76E+09,14:00.0,Carter 34@abcmail.com,@Carter 3
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/03,11,Channel O,1.76E+09,34:00.0,Dee 215@mailxyz.com,@Dee 21
+Eastern Cape,1,1,coloured,1,0,1,male,0.01,Youth (18-24),7,2016/01/23,18,M-Net,1.76E+09,55:00.0,Royal 171@yahoo.com,@Royal 17
+North West,1,1,black,0,1,1,female,0.01,Youth (18-24),4,2016/01/06,8,Boomerang,1.76E+09,00:00.0,Shandra 262@gmail.com,@Shandra 26
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/03/02,20,kykNET,1.76E+09,42:00.0,Michel 202@gmail.com,@Michel 20
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),4,2016/03/30,19,ICC Cricket World Cup 2011,1.76E+09,02:00.0,Adela 222@gmail.com,None
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),7,2016/01/16,11,Africa Magic,1.76E+09,15:00.0,Filiberto 44@abcmail.com,@Filiberto 4
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/03/02,14,kykNET,1.76E+09,04:00.0,Cory 104@abcmail.com,@Cory 10
+Western Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/01,21,Supersport Live Events,1.76E+09,11:00.0,Garry 285@mailxyz.com,@Garry 28
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/03/04,9,CNN,1.76E+09,17:00.0,Kip 142@gmail.com,@Kip 14
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),3,2016/01/19,9,DStv Events 1,1.76E+09,07:00.0,Wilton 413@mail.com,@Wilton 41
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),7,2016/02/06,18,Supersport Live Events,1.76E+09,00:00.0,Markus 192@gmail.com,@Markus 19
+Western Cape,1,1,black,0,1,1,female,0.01,Adult (25-34),2,2016/01/11,16,Channel O,1.76E+09,08:00.0,Anette 371@yahoo.com,@Anette 37
+Kwazulu Natal,1,1,coloured,1,0,1,male,0.01,Youth (18-24),4,2016/02/24,17,Cartoon Network,1.76E+09,58:00.0,Hyman 81@yahoo.com,@Hyman 8
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),5,2016/03/24,11,Supersport Live Events,1.76E+09,02:00.0,Efren 131@yahoo.com,@Efren 13
+Gauteng,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/26,7,Africa Magic,1.76E+09,25:00.0,Chas 353@mail.com,@Chas 35
+Eastern Cape,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/02/24,21,CNN,1.76E+09,11:00.0,Lucas 231@yahoo.com,@Lucas 23
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),6,2016/01/08,21,Cartoon Network,1.76E+09,06:00.0,Dion 332@gmail.com,@Dion 33
+Mpumalanga,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/01/14,20,SuperSport Blitz,1.76E+09,54:00.0,Romeo 372@gmail.com,@Romeo 37
+Western Cape,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/23,12,ICC Cricket World Cup 2011,1.76E+09,33:00.0,Markus 191@yahoo.com,@Markus 19
+Free State,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),4,2016/02/24,21,Channel O,1.76E+09,43:00.0,Earl 423@mail.com,@Earl 42
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,18,Trace TV,1.76E+09,24:00.0,Cody 124@abcmail.com,@Cody 12
+Mpumalanga,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/02/23,6,SuperSport Blitz,1.76E+09,48:00.0,Robby 164@abcmail.com,@Robby 16
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),1,2016/02/28,12,ICC Cricket World Cup 2011,1.76E+09,58:00.0,Stacy 274@abcmail.com,@Stacy 27
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),2,2016/01/18,13,Channel O,1.76E+09,56:00.0,Filiberto 42@gmail.com,@Filiberto 4
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),3,2016/02/02,18,Supersport Live Events,1.76E+09,52:00.0,Abel 183@mail.com,@Abel 18
+Western Cape,1,1,coloured,1,0,1,male,0.01,Kids (0-17),1,2016/03/06,20,Cartoon Network,1.76E+09,20:00.0,Dion 335@mailxyz.com,@Dion 33
+Free State,1,1,None,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/02/24,14,ICC Cricket World Cup 2011,1.76E+09,09:00.0,Carter 34@abcmail.com,@Carter 3
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/01/19,21,Africa Magic,1.76E+09,58:00.0,Lane 111@yahoo.com,@Lane 11
+Eastern Cape,1,1,coloured,1,0,1,male,0.01,Youth (18-24),6,2016/03/18,10,Supersport Live Events,1.76E+09,19:00.0,Lane 112@gmail.com,@Lane 11
+Free State,1,1,white,0,1,1,female,0.01,Adult (25-34),2,2016/02/22,21,E! Entertainment,1.76E+09,30:00.0,Bess 52@gmail.com,@Bess 5
+Western Cape,1,1,black,1,0,1,male,0.01,Kids (0-17),4,2016/03/16,22,Channel O,1.76E+09,25:00.0,Markus 193@mail.com,@Markus 19
+Kwazulu Natal,1,1,indian_asian,0,1,1,female,0.01,Kids (0-17),7,2016/01/02,7,Cartoon Network,1.76E+09,58:00.0,Loris 103@mail.com,@Loris 10
+Mpumalanga,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/01/28,11,Africa Magic,1.76E+09,27:00.0,Lloyd 75@mailxyz.com,@Lloyd 7
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),3,2016/03/01,11,Channel O,1.76E+09,52:00.0,Iva 95@mailxyz.com,None
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/03/06,20,Africa Magic,1.76E+09,24:00.0,Markus 195@mailxyz.com,@Markus 19
+Eastern Cape,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/03/12,8,Supersport Live Events,1.76E+09,59:00.0,Lucas 231@yahoo.com,@Lucas 23
+Mpumalanga,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),7,2016/03/26,11,ICC Cricket World Cup 2011,1.76E+09,30:00.0,Royal 173@mail.com,@Royal 17
+Western Cape,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/08,19,M-Net,1.76E+09,19:00.0,Hollis 381@yahoo.com,@Hollis 38
+Mpumalanga,1,1,black,0,1,1,female,0.01,Mature Adult (35-44),3,2016/03/08,20,Africa Magic,1.76E+09,41:00.0,Carlota 504@abcmail.com,@Carlota 50
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),3,2016/03/01,16,ICC Cricket World Cup 2011,1.76E+09,59:00.0,Donald 221@yahoo.com,@Donald 22
+Eastern Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/02/02,20,SuperSport Blitz,1.76E+09,34:00.0,Filiberto 43@mail.com,@Filiberto 4
+Limpopo,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/01/06,18,Cartoon Network,1.76E+09,58:00.0,Loyd 495@mailxyz.com,@Loyd 49
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),3,2016/01/05,15,Supersport Live Events,1.76E+09,58:00.0,Bernardo 321@yahoo.com,@Bernardo 32
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/03/26,17,Trace TV,1.76E+09,40:00.0,Eli 295@mailxyz.com,@Eli 29
+Gauteng,1,1,None,1,0,1,male,0.01,Youth (18-24),3,2016/03/29,4,SuperSport Blitz,1.76E+09,28:00.0,Hyman 84@abcmail.com,@Hyman 8
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/03/15,17,Trace TV,1.76E+09,13:00.0,Jacinto 251@yahoo.com,@Jacinto 25
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/02/27,4,Channel O,1.76E+09,57:00.0,Claud 341@yahoo.com,@Claud 34
+Northern Cape,1,1,black,0,1,1,female,0.01,Adult (25-34),7,2016/02/13,9,Channel O,1.76E+09,46:00.0,Malika 282@gmail.com,@Malika 28
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/25,16,Supersport Live Events,1.76E+09,01:00.0,Donald 223@mail.com,@Donald 22
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/02/20,13,Supersport Live Events,1.76E+09,38:00.0,Hyman 84@abcmail.com,@Hyman 8
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),2,2016/01/18,15,Supersport Live Events,1.76E+09,58:00.0,Valentine 472@gmail.com,@Valentine 47
+Northern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/03/02,13,Vuzu,1.76E+09,49:00.0,Donald 221@yahoo.com,@Donald 22
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/03/07,21,Supersport Live Events,1.76E+09,45:00.0,Hyman 83@mail.com,@Hyman 8
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/01/22,21,Africa Magic,1.76E+09,52:00.0,Wilburn 303@mail.com,@Wilburn 30
+Kwazulu Natal,1,1,black,0,1,1,female,0.01,Mature Adult (35-44),4,2016/01/20,5,E! Entertainment,1.76E+09,42:00.0,Rebekah 322@gmail.com,@Rebekah 32
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),7,2016/02/27,22,Channel O,1.76E+09,13:00.0,Chas 353@mail.com,@Chas 35
+Eastern Cape,1,1,black,1,0,1,male,0.01,Retired (55+),1,2016/01/17,15,Trace TV,1.76E+09,41:00.0,Cory 103@mail.com,@Cory 10
+Gauteng,1,1,white,0,1,1,female,0.01,Youth (18-24),5,2016/03/31,6,Channel O,1.76E+09,00:00.0,Luann 184@abcmail.com,@Luann 18
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/03/09,13,ICC Cricket World Cup 2011,1.76E+09,11:00.0,Michel 202@gmail.com,@Michel 20
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/03,11,ICC Cricket World Cup 2011,1.76E+09,58:00.0,Eli 292@gmail.com,@Eli 29
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/01/29,14,Supersport Live Events,1.76E+09,37:00.0,Stacy 271@yahoo.com,@Stacy 27
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),7,2016/02/20,20,Boomerang,1.76E+09,38:00.0,Hyman 83@mail.com,@Hyman 8
+Limpopo,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/01/21,7,Channel O,1.76E+09,11:00.0,Charlie 364@abcmail.com,@Charlie 36
+Western Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/02/01,8,Channel O,1.76E+09,36:00.0,Hugh13@mail.com,@Hugh1
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,12,ICC Cricket World Cup 2011,1.76E+09,34:00.0,Dee 213@mail.com,@Dee 21
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),6,2016/03/04,19,Trace TV,1.76E+09,32:00.0,Winona 272@gmail.com,None
+Eastern Cape,1,1,white,1,0,1,male,0.01,Adult (25-34),6,2016/02/26,17,Supersport Live Events,1.76E+09,33:00.0,Royal 175@mailxyz.com,@Royal 17
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/24,17,Supersport Live Events,1.76E+09,13:00.0,Robby 165@mailxyz.com,@Robby 16
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),7,2016/02/20,9,Supersport Live Events,1.76E+09,20:00.0,Filiberto 44@abcmail.com,@Filiberto 4
+Mpumalanga,1,1,white,1,0,1,male,0.01,Adult (25-34),3,2016/01/12,22,SuperSport Blitz,1.76E+09,01:00.0,Lloyd 71@yahoo.com,@Lloyd 7
+Mpumalanga,1,1,white,1,0,1,male,0.01,Adult (25-34),7,2016/02/27,18,Supersport Live Events,1.76E+09,06:00.0,Shane 21@yahoo.com,@Shane 2
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/13,15,ICC Cricket World Cup 2011,1.76E+09,59:00.0,Stacy 275@mailxyz.com,@Stacy 27
+Mpumalanga,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/01/15,13,Cartoon Network,1.76E+09,24:00.0,Stacy 271@yahoo.com,@Stacy 27
+Gauteng,1,1,coloured,1,0,1,male,0.01,Adult (25-34),7,2016/01/09,20,Cartoon Network,1.76E+09,35:00.0,Loyd 491@yahoo.com,@Loyd 49
+Kwazulu Natal,1,1,None,1,0,1,male,0.01,Adult (25-34),2,2016/02/08,22,Trace TV,1.76E+09,34:00.0,Bernardo 321@yahoo.com,@Bernardo 32
+Western Cape,1,1,white,1,0,1,male,0.01,Adult (25-34),7,2016/03/05,11,SuperSport Blitz,1.76E+09,55:00.0,Earl 422@gmail.com,@Earl 42
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),7,2016/01/16,21,Boomerang,1.76E+09,23:00.0,Wilburn 301@yahoo.com,@Wilburn 30
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),4,2016/02/24,20,CNN,1.76E+09,35:00.0,Claud 341@yahoo.com,@Claud 34
+Western Cape,1,1,white,1,0,1,male,0.01,Retired (55+),2,2016/01/18,17,E! Entertainment,1.76E+09,10:00.0,Romeo 371@yahoo.com,@Romeo 37
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),5,2016/01/28,18,Supersport Live Events,1.76E+09,42:00.0,Lane 112@gmail.com,@Lane 11
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),5,2016/03/03,9,SawSee,1.76E+09,45:00.0,Emilie 391@yahoo.com,None
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/03/27,14,Supersport Live Events,1.76E+09,02:00.0,Art 401@yahoo.com,@Art 40
+Gauteng,1,1,None,0,1,1,female,0.01,Adult (25-34),6,2016/04/01,0,Channel O,1.76E+09,08:00.0,Mellie 125@mailxyz.com,@Mellie 12
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/02/05,18,Supersport Live Events,1.76E+09,08:00.0,Earl 425@mailxyz.com,@Earl 42
+Limpopo,1,1,None,1,0,1,male,0.01,Adult (25-34),6,2016/03/25,17,ICC Cricket World Cup 2011,1.76E+09,02:00.0,Bret 312@gmail.com,@Bret 31
+Gauteng,1,1,coloured,0,1,1,female,0.01,Adult (25-34),5,2016/01/21,19,Cartoon Network,1.76E+09,19:00.0,Yolonda 131@yahoo.com,@Yolonda 13
+Eastern Cape,1,1,white,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/01/08,5,Boomerang,1.76E+09,51:00.0,Hyman 82@gmail.com,@Hyman 8
+Mpumalanga,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/02,17,Channel O,1.76E+09,04:00.0,Lane 111@yahoo.com,@Lane 11
+Western Cape,1,1,coloured,0,1,1,female,0.01,Mature Adult (35-44),6,2016/02/26,19,Africa Magic,1.76E+09,02:00.0,Rebecka 112@gmail.com,@Rebecka 11
+Limpopo,1,1,black,0,1,1,female,0.01,Youth (18-24),6,2016/02/19,3,Boomerang,1.76E+09,49:00.0,Lillie 363@mail.com,@Lillie 36
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),3,2016/03/29,13,Boomerang,1.76E+09,11:00.0,Jacinto 254@abcmail.com,@Jacinto 25
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/03/03,21,Supersport Live Events,1.76E+09,36:00.0,Efren 133@mail.com,@Efren 13
+Gauteng,1,1,white,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/02/27,16,CNN,1.76E+09,07:00.0,Charlie 363@mail.com,@Charlie 36
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),1,2016/03/06,10,ICC Cricket World Cup 2011,1.76E+09,45:00.0,Hugh11@yahoo.com,@Hugh1
+Limpopo,1,1,black,0,1,1,female,0.01,Youth (18-24),2,2016/01/11,7,Africa Magic,1.76E+09,12:00.0,Tiffani 242@gmail.com,@Tiffani 24
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Retired (55+),1,2016/02/14,8,Africa Magic,1.76E+09,07:00.0,Efren 132@gmail.com,@Efren 13
+Gauteng,1,1,None,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/03/19,7,Boomerang,1.76E+09,38:00.0,Raymundo 435@mailxyz.com,@Raymundo 43
+North West,1,1,black,1,0,1,male,0.01,Youth (18-24),7,2016/03/05,19,Cartoon Network,1.76E+09,46:00.0,Chas 351@yahoo.com,@Chas 35
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/07,20,E! Entertainment,1.76E+09,11:00.0,Kip 145@mailxyz.com,@Kip 14
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),7,2016/02/27,20,Break in transmission,1.76E+09,43:00.0,Abel 183@mail.com,@Abel 18
+Eastern Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),5,2016/02/18,14,Trace TV,1.76E+09,01:00.0,Hyman 84@abcmail.com,@Hyman 8
+Western Cape,1,1,None,1,0,1,male,0.01,Youth (18-24),4,2016/03/30,21,Trace TV,1.76E+09,41:00.0,Michel 205@mailxyz.com,@Michel 20
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/02/05,8,Channel O,1.76E+09,53:00.0,Irving 52@gmail.com,@Irving 5
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,15,E! Entertainment,1.76E+09,18:00.0,Markus 191@yahoo.com,@Markus 19
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/11,14,SuperSport Blitz,1.76E+09,48:00.0,Dee 215@mailxyz.com,@Dee 21
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/19,6,Boomerang,1.76E+09,58:00.0,Lloyd 75@mailxyz.com,@Lloyd 7
+Eastern Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/27,15,Cartoon Network,1.76E+09,52:00.0,Cory 102@gmail.com,@Cory 10
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/23,8,SawSee,1.76E+09,03:00.0,Chas 355@mailxyz.com,@Chas 35
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),3,2016/02/02,11,Supersport Live Events,1.76E+09,41:00.0,Donald 221@yahoo.com,@Donald 22
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/12,9,Supersport Live Events,1.76E+09,12:00.0,Emerson 242@gmail.com,@Emerson 24
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/12,19,Cartoon Network,1.76E+09,56:00.0,Filiberto 41@yahoo.com,@Filiberto 4
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),4,2016/02/24,14,ICC Cricket World Cup 2011,1.76E+09,24:00.0,Robby 162@gmail.com,@Robby 16
+Gauteng,1,1,None,1,0,1,male,0.01,Adult (25-34),3,2016/02/23,19,Channel O,1.76E+09,30:00.0,Filiberto 43@mail.com,@Filiberto 4
+Western Cape,1,1,black,1,0,1,male,0.01,Youth (18-24),1,2016/02/14,23,Supersport Live Events,1.76E+09,26:00.0,Garry 285@mailxyz.com,@Garry 28
+Gauteng,1,1,black,0,1,1,female,0.01,Mature Adult (35-44),5,2016/01/07,1,CNN,1.76E+09,00:00.0,Lillie 463@mail.com,@Lillie 46
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/02/01,21,E! Entertainment,1.76E+09,16:00.0,Lucas 232@gmail.com,@Lucas 23
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/01/27,19,Boomerang,1.76E+09,43:00.0,Art 402@gmail.com,@Art 40
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),4,2016/03/23,13,Channel O,1.76E+09,10:00.0,Jared 505@mailxyz.com,@Jared 50
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),3,2016/03/01,23,Boomerang,1.76E+09,59:00.0,Jacinto 255@mailxyz.com,@Jacinto 25
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),7,2016/03/12,14,ICC Cricket World Cup 2011,1.76E+09,57:00.0,Kyle 62@gmail.com,@Kyle 6
+Limpopo,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/01,20,CNN,1.76E+09,45:00.0,Wilburn 302@gmail.com,@Wilburn 30
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/02/06,0,SuperSport Blitz,1.76E+09,31:00.0,Earl 424@abcmail.com,@Earl 42
+Mpumalanga,1,1,black,0,1,1,female,0.01,Youth (18-24),5,2016/02/18,20,CNN,1.76E+09,44:00.0,Cordie 63@mail.com,@Cordie 6
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),7,2016/02/20,3,Trace TV,1.76E+09,12:00.0,Wilton 414@abcmail.com,@Wilton 41
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),1,2016/02/14,22,Supersport Live Events,1.76E+09,49:00.0,Markus 191@yahoo.com,@Markus 19
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/26,13,ICC Cricket World Cup 2011,1.76E+09,53:00.0,Art 401@yahoo.com,@Art 40
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/02/24,15,ICC Cricket World Cup 2011,1.76E+09,58:00.0,Raymundo 435@mailxyz.com,@Raymundo 43
+Free State,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/02/09,22,Supersport Live Events,1.76E+09,27:00.0,Romeo 371@yahoo.com,@Romeo 37
+Gauteng,1,1,black,0,1,1,female,0.01,Adult (25-34),2,2016/02/01,10,Cartoon Network,1.76E+09,01:00.0,Tiffani 212@gmail.com,@Tiffani 21
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/21,7,Channel O,1.76E+09,47:00.0,Randy 395@mailxyz.com,@Randy 39
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/23,10,Cartoon Network,1.76E+09,36:00.0,Royal 174@abcmail.com,@Royal 17
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/01/09,13,Boomerang,1.76E+09,49:00.0,Abel 184@abcmail.com,@Abel 18
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/02/27,19,SuperSport Blitz,1.76E+09,13:00.0,Bernardo 323@mail.com,@Bernardo 32
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/02/16,7,Cartoon Network,1.76E+09,21:00.0,Jacinto 251@yahoo.com,@Jacinto 25
+Gauteng,1,1,None,0,1,1,female,0.01,Adult (25-34),2,2016/03/07,13,Boomerang,1.76E+09,00:00.0,Torrie 142@gmail.com,@Torrie 14
+Gauteng,1,1,None,1,0,1,male,0.01,Middle-Aged Adult (45-54),1,2016/01/24,15,Boomerang,1.76E+09,10:00.0,Samuel 262@gmail.com,@Samuel 26
+Mpumalanga,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/23,12,ICC Cricket World Cup 2011,1.76E+09,53:00.0,Brendan 452@gmail.com,@Brendan 45
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/26,9,Cartoon Network,1.76E+09,38:00.0,Cory 104@abcmail.com,@Cory 10
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/03/31,16,CNN,1.76E+09,57:00.0,Lane 111@yahoo.com,@Lane 11
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),1,2016/03/06,12,ICC Cricket World Cup 2011,1.76E+09,56:00.0,Markus 192@gmail.com,@Markus 19
+Gauteng,1,1,None,0,1,1,female,0.01,Mature Adult (35-44),4,2016/03/16,17,Boomerang,1.76E+09,10:00.0,Seema 413@mail.com,@Seema 41
+Gauteng,1,1,white,1,0,1,male,0.01,Retired (55+),2,2016/03/14,13,CNN,1.76E+09,27:00.0,Bernardo 321@yahoo.com,@Bernardo 32
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),3,2016/03/01,13,ICC Cricket World Cup 2011,1.76E+09,05:00.0,Efren 132@gmail.com,@Efren 13
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/29,12,ICC Cricket World Cup 2011,1.76E+09,03:00.0,Samuel 262@gmail.com,@Samuel 26
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/02/03,22,Supersport Live Events,1.76E+09,56:00.0,Royal 173@mail.com,@Royal 17
+Gauteng,1,1,black,1,0,1,male,0.01,Kids (0-17),5,2016/03/03,16,Africa Magic,1.76E+09,54:00.0,Samuel 263@mail.com,@Samuel 26
+Gauteng,1,1,coloured,1,0,1,male,0.01,Youth (18-24),2,2016/02/22,16,Channel O,1.76E+09,42:00.0,Bernardo 322@gmail.com,@Bernardo 32
+Western Cape,1,1,None,0,1,1,female,0.01,Mature Adult (35-44),2,2016/02/01,10,Supersport Live Events,1.76E+09,12:00.0,Lillie 431@yahoo.com,@Lillie 43
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/03/27,15,Channel O,1.76E+09,07:00.0,Samuel 261@yahoo.com,@Samuel 26
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/01/16,21,E! Entertainment,1.76E+09,09:00.0,Randy 391@yahoo.com,@Randy 39
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),4,2016/02/24,14,ICC Cricket World Cup 2011,1.76E+09,26:00.0,Loyd 492@gmail.com,@Loyd 49
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/03/28,17,SawSee,1.76E+09,38:00.0,Dee 215@mailxyz.com,@Dee 21
+Mpumalanga,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/02/23,15,Africa Magic,1.76E+09,00:00.0,Stacy 275@mailxyz.com,@Stacy 27
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),7,2016/01/16,16,Supersport Live Events,1.76E+09,54:00.0,Bernardo 322@gmail.com,@Bernardo 32
+Eastern Cape,1,1,white,1,0,1,male,0.01,Kids (0-17),4,2016/01/13,19,Channel O,1.76E+09,50:00.0,Raymundo 434@abcmail.com,@Raymundo 43
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),1,2016/02/28,18,Trace TV,1.76E+09,13:00.0,Malika 235@mailxyz.com,None
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/02/06,17,Africa Magic,1.76E+09,41:00.0,Lucas 235@mailxyz.com,@Lucas 23
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),5,2016/02/18,11,Supersport Live Events,1.76E+09,21:00.0,Claud 343@mail.com,@Claud 34
+Mpumalanga,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),5,2016/03/31,23,SuperSport Blitz,1.76E+09,10:00.0,Michel 203@mail.com,@Michel 20
+Mpumalanga,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/25,19,Africa Magic,1.76E+09,10:00.0,Wilton 414@abcmail.com,@Wilton 41
+North West,1,1,black,0,1,1,female,0.01,Adult (25-34),2,2016/02/15,22,Africa Magic,1.76E+09,12:00.0,Briana 503@mail.com,@Briana 50
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/02/09,12,Cartoon Network,1.76E+09,23:00.0,Royal 171@yahoo.com,@Royal 17
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/15,17,Africa Magic,1.76E+09,34:00.0,Lucas 231@yahoo.com,@Lucas 23
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),5,2016/02/18,12,Supersport Live Events,1.76E+09,22:00.0,Hyman 85@mailxyz.com,@Hyman 8
+North West,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/16,21,Channel O,1.76E+09,00:00.0,Lane 113@mail.com,@Lane 11
+Limpopo,1,1,black,0,1,1,female,0.01,Youth (18-24),2,2016/03/28,19,Trace TV,1.76E+09,44:00.0,Gretta 481@yahoo.com,@Gretta 48
+Eastern Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),1,2016/03/13,10,M-Net,1.76E+09,41:00.0,Hugh15@mailxyz.com,@Hugh1
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/26,7,Channel O,1.76E+09,15:00.0,Cory 104@abcmail.com,@Cory 10
+Eastern Cape,1,1,white,1,0,1,male,0.01,Retired (55+),6,2016/01/15,22,SuperSport Blitz,1.76E+09,02:00.0,Haywood 92@gmail.com,@Haywood 9
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),1,2016/03/27,14,Boomerang,1.76E+09,35:00.0,Minerva 184@abcmail.com,None
+Gauteng,1,1,None,0,1,1,female,0.01,Adult (25-34),1,2016/01/03,1,Trace TV,1.76E+09,35:00.0,Torrie 142@gmail.com,@Torrie 14
+Limpopo,1,1,black,1,0,1,male,0.01,Youth (18-24),2,2016/03/28,18,Africa Magic,1.76E+09,19:00.0,Art 404@abcmail.com,@Art 40
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/01/08,20,DStv Events 1,1.76E+09,59:00.0,Michel 204@abcmail.com,@Michel 20
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Kids (0-17),6,2016/03/25,19,E! Entertainment,1.76E+09,30:00.0,Michel 201@yahoo.com,@Michel 20
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/02/19,10,ICC Cricket World Cup 2011,1.76E+09,43:00.0,Eli 291@yahoo.com,@Eli 29
+Western Cape,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/03/29,23,E! Entertainment,1.76E+09,26:00.0,Art 404@abcmail.com,@Art 40
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/03/04,14,ICC Cricket World Cup 2011,1.76E+09,45:00.0,Kyle 63@mail.com,@Kyle 6
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),2,2016/02/08,21,Africa Magic,1.76E+09,14:00.0,Jacinto 252@gmail.com,@Jacinto 25
+Limpopo,1,1,black,1,0,1,male,0.01,Youth (18-24),7,2016/01/23,2,Trace TV,1.76E+09,50:00.0,Michel 202@gmail.com,@Michel 20
+Kwazulu Natal,1,1,white,1,0,1,male,0.01,Adult (25-34),6,2016/03/25,15,ICC Cricket World Cup 2011,1.76E+09,18:00.0,Kip 142@gmail.com,@Kip 14
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/02/16,8,Trace TV,1.76E+09,14:00.0,Irving 55@mailxyz.com,@Irving 5
+Gauteng,1,1,None,1,0,1,male,0.01,Youth (18-24),1,2016/03/06,3,Cartoon Network,1.76E+09,54:00.0,Filiberto 44@abcmail.com,@Filiberto 4
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),3,2016/03/29,15,ICC Cricket World Cup 2011,1.76E+09,20:00.0,Robby 163@mail.com,@Robby 16
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),2,2016/03/07,18,CNN,1.76E+09,17:00.0,Cory 101@yahoo.com,@Cory 10
+Free State,1,1,black,1,0,1,male,0.01,Youth (18-24),1,2016/03/27,9,Trace TV,1.76E+09,28:00.0,Emerson 245@mailxyz.com,@Emerson 24
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/12,16,SawSee,1.76E+09,05:00.0,Lloyd 75@mailxyz.com,@Lloyd 7
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/03/24,12,Trace TV,1.76E+09,10:00.0,Cory 104@abcmail.com,@Cory 10
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),3,2016/03/29,3,CNN,1.76E+09,12:00.0,Charlie 365@mailxyz.com,@Charlie 36
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),7,2016/03/12,11,ICC Cricket World Cup 2011,1.76E+09,29:00.0,Claud 342@gmail.com,@Claud 34
+Gauteng,1,1,white,1,0,1,male,0.01,Retired (55+),3,2016/01/05,18,CNN,1.76E+09,50:00.0,Randy 393@mail.com,@Randy 39
+Gauteng,1,1,None,1,0,1,male,0.01,Adult (25-34),3,2016/01/05,13,Supersport Live Events,1.76E+09,22:00.0,Lucas 232@gmail.com,@Lucas 23
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/01/15,12,SuperSport Blitz,1.76E+09,23:00.0,Efren 132@gmail.com,@Efren 13
+Western Cape,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/24,19,Supersport Live Events,1.76E+09,00:00.0,Michel 201@yahoo.com,@Michel 20
+Western Cape,1,1,coloured,0,1,1,female,0.01,Mature Adult (35-44),3,2016/02/23,13,ICC Cricket World Cup 2011,1.76E+09,18:00.0,Rebecka 172@gmail.com,@Rebecka 17
+Eastern Cape,1,1,None,1,0,1,male,0.01,Adult (25-34),4,2016/03/09,11,SuperSport Blitz,1.76E+09,13:00.0,Filiberto 41@yahoo.com,@Filiberto 4
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),6,2016/01/15,17,CNN,1.76E+09,55:00.0,Loris 354@abcmail.com,None
+Mpumalanga,1,1,white,1,0,1,male,0.01,Youth (18-24),7,2016/03/19,9,ICC Cricket World Cup 2011,1.76E+09,30:00.0,Brendan 453@mail.com,@Brendan 45
+Eastern Cape,1,1,black,0,1,1,female,0.01,Middle-Aged Adult (45-54),1,2016/01/31,1,Africa Magic,1.76E+09,02:00.0,Gretta 272@gmail.com,@Gretta 27
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),4,2016/03/09,12,ICC Cricket World Cup 2011,1.76E+09,01:00.0,Wilton 411@yahoo.com,@Wilton 41
+North West,1,1,white,1,0,1,male,0.01,Youth (18-24),7,2016/02/20,15,Africa Magic,1.76E+09,48:00.0,Cory 102@gmail.com,@Cory 10
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/25,2,Boomerang,1.76E+09,29:00.0,Wilburn 302@gmail.com,@Wilburn 30
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),1,2016/02/21,8,Trace TV,1.76E+09,56:00.0,Emerson 245@mailxyz.com,@Emerson 24
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/02/03,6,CNN,1.76E+09,59:00.0,Kip 144@abcmail.com,@Kip 14
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/03/13,8,CNN,1.76E+09,56:00.0,Lucas 233@mail.com,@Lucas 23
+Limpopo,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/01/10,5,Trace TV,1.76E+09,19:00.0,Stephen 154@abcmail.com,@Stephen 15
+Eastern Cape,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),7,2016/01/02,3,Cartoon Network,1.76E+09,10:00.0,Stacy 273@mail.com,@Stacy 27
+Eastern Cape,1,1,white,1,0,1,male,0.01,Retired (55+),3,2016/02/16,18,E! Entertainment,1.76E+09,29:00.0,Stephen 155@mailxyz.com,@Stephen 15
+North West,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/02/27,15,Supersport Live Events,1.76E+09,10:00.0,Robby 164@abcmail.com,@Robby 16
+Gauteng,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),3,2016/02/23,15,SuperSport Blitz,1.76E+09,59:00.0,Randy 393@mail.com,@Randy 39
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/19,14,Channel O,1.76E+09,38:00.0,Jared 501@yahoo.com,@Jared 50
+Western Cape,1,1,indian_asian,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/02/24,18,ICC Cricket World Cup 2011,1.76E+09,04:00.0,Brendan 452@gmail.com,@Brendan 45
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),5,2016/03/24,11,Supersport Live Events,1.76E+09,09:00.0,Eli 291@yahoo.com,@Eli 29
+Kwazulu Natal,1,1,coloured,0,1,1,female,0.01,Adult (25-34),2,2016/03/28,8,Boomerang,1.76E+09,07:00.0,Mellie 395@mailxyz.com,@Mellie 39
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/01/19,17,Africa Magic,1.76E+09,29:00.0,Eli 294@abcmail.com,@Eli 29
+Western Cape,1,1,None,1,0,1,male,0.01,Adult (25-34),6,2016/03/11,17,ICC Cricket World Cup 2011,1.76E+09,40:00.0,Irving 52@gmail.com,@Irving 5
+Limpopo,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/18,22,SuperSport Blitz,1.76E+09,50:00.0,Michel 204@abcmail.com,@Michel 20
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/24,16,Supersport Live Events,1.76E+09,21:00.0,Samuel 265@mailxyz.com,@Samuel 26
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/02/09,6,Trace TV,1.76E+09,49:00.0,Stacy 271@yahoo.com,@Stacy 27
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/04,7,SawSee,1.76E+09,49:00.0,Dee 215@mailxyz.com,@Dee 21
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/01/06,11,Supersport Live Events,1.76E+09,26:00.0,Loyd 492@gmail.com,@Loyd 49
+Eastern Cape,1,1,white,0,1,1,female,0.01,Adult (25-34),6,2016/03/04,10,Supersport Live Events,1.76E+09,10:00.0,Alecia 235@mailxyz.com,@Alecia 23
+North West,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/02/19,15,Supersport Live Events,1.76E+09,29:00.0,Jared 505@mailxyz.com,@Jared 50
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/19,23,Cartoon Network,1.76E+09,51:00.0,Jared 502@gmail.com,@Jared 50
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/01/26,12,Trace TV,1.76E+09,17:00.0,Yong 485@mailxyz.com,@Yong 48
+Mpumalanga,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/01,22,Africa Magic,1.76E+09,12:00.0,Donald 225@mailxyz.com,@Donald 22
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/02/27,11,Africa Magic,1.76E+09,44:00.0,Hyman 83@mail.com,@Hyman 8
+Eastern Cape,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),2,2016/01/11,11,CNN,1.76E+09,07:00.0,Samuel 263@mail.com,@Samuel 26
+Western Cape,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/22,23,Cartoon Network,1.76E+09,20:00.0,Hugh14@abcmail.com,@Hugh1
+Gauteng,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/10,14,SuperSport Blitz,1.76E+09,02:00.0,Wilton 412@gmail.com,@Wilton 41
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/24,11,Supersport Live Events,1.76E+09,13:00.0,Robby 163@mail.com,@Robby 16
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/25,8,Supersport Live Events,1.76E+09,59:00.0,Len 444@abcmail.com,@Len 44
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),5,2016/01/14,17,Boomerang,1.76E+09,12:00.0,Markus 195@mailxyz.com,@Markus 19
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/02/24,15,ICC Cricket World Cup 2011,1.76E+09,17:00.0,Chas 354@abcmail.com,@Chas 35
+Western Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/02/24,13,ICC Cricket World Cup 2011,1.76E+09,33:00.0,Garry 285@mailxyz.com,@Garry 28
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/01/05,14,Cartoon Network,1.76E+09,04:00.0,Valentine 471@yahoo.com,@Valentine 47
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/15,17,ICC Cricket World Cup 2011,1.76E+09,13:00.0,Markus 195@mailxyz.com,@Markus 19
+Western Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/01/07,14,SawSee,1.76E+09,55:00.0,Hyman 81@yahoo.com,@Hyman 8
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,17,Channel O,1.76E+09,58:00.0,Hugh11@yahoo.com,@Hugh1
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/03/14,13,Channel O,1.76E+09,51:00.0,Shane 24@abcmail.com,@Shane 2
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),1,2016/03/06,12,Cartoon Network,1.76E+09,17:00.0,Zetta 73@mail.com,None
+Kwazulu Natal,1,1,white,1,0,1,male,0.01,Adult (25-34),7,2016/01/02,21,Boomerang,1.76E+09,41:00.0,Stephen 151@yahoo.com,@Stephen 15
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/01/28,10,Africa Magic,1.76E+09,26:00.0,Wilton 411@yahoo.com,@Wilton 41
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/02/02,2,SuperSport Blitz,1.76E+09,33:00.0,Dion 332@gmail.com,@Dion 33
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),5,2016/03/31,0,CNN,1.76E+09,58:00.0,Cory 104@abcmail.com,@Cory 10
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),7,2016/01/09,7,Supersport Live Events,1.76E+09,36:00.0,Efren 134@abcmail.com,@Efren 13
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/02/19,9,Supersport Live Events,1.76E+09,58:00.0,Cory 101@yahoo.com,@Cory 10
+Kwazulu Natal,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/03/11,1,Channel O,1.76E+09,58:00.0,Markus 192@gmail.com,@Markus 19
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/01/29,6,CNN,1.76E+09,12:00.0,Randy 391@yahoo.com,@Randy 39
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/02/02,22,Africa Magic,1.76E+09,14:00.0,Samuel 261@yahoo.com,@Samuel 26
+Gauteng,1,1,None,0,1,1,female,0.01,Adult (25-34),7,2016/01/23,21,Africa Magic,1.76E+09,05:00.0,Torrie 72@gmail.com,@Torrie 7
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),7,2016/02/20,20,SuperSport Blitz,1.76E+09,15:00.0,Garry 284@abcmail.com,@Garry 28
+Limpopo,1,1,None,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/03/25,15,ICC Cricket World Cup 2011,1.76E+09,20:00.0,Samuel 265@mailxyz.com,@Samuel 26
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),1,2016/02/21,13,SuperSport Blitz,1.76E+09,12:00.0,Kip 144@abcmail.com,@Kip 14
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/03/03,19,Africa Magic,1.76E+09,27:00.0,Raymundo 432@gmail.com,@Raymundo 43
+Western Cape,1,1, ,1,0,1,male,0.01,Adult (25-34),4,2016/03/09,20,Trace TV,1.76E+09,04:00.0,Robby 163@mail.com,@Robby 16
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/03/23,13,Cartoon Network,1.76E+09,09:00.0,Garry 282@gmail.com,@Garry 28
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/07,21,Trace TV,1.76E+09,02:00.0,Markus 192@gmail.com,@Markus 19
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/03/19,16,SawSee,1.76E+09,11:00.0,Emerson 241@yahoo.com,@Emerson 24
+Western Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/06,19,Vuzu,1.76E+09,35:00.0,Cody 122@gmail.com,@Cody 12
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/02/06,14,CNN,1.76E+09,22:00.0,Kip 145@mailxyz.com,@Kip 14
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/01/25,21,Supersport Live Events,1.76E+09,20:00.0,Claud 344@abcmail.com,@Claud 34
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),2,2016/02/15,17,Trace TV,1.76E+09,54:00.0,Cody 122@gmail.com,@Cody 12
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),1,2016/03/13,18,Trace TV,1.76E+09,32:00.0,Loyd 493@mail.com,@Loyd 49
+Gauteng,1,1,white,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/03/19,19,Supersport Live Events,1.76E+09,46:00.0,Filiberto 42@gmail.com,@Filiberto 4
+Gauteng,1,1,black,1,0,1,male,0.01,Kids (0-17),3,2016/01/26,19,Cartoon Network,1.76E+09,17:00.0,Jacinto 251@yahoo.com,@Jacinto 25
+North West,1,1,white,1,0,1,male,0.01,Adult (25-34),2,2016/02/22,12,ICC Cricket World Cup 2011,1.76E+09,32:00.0,Lucas 235@mailxyz.com,@Lucas 23
+North West,1,1,black,1,0,1,male,0.01,Youth (18-24),2,2016/02/22,9,Channel O,1.76E+09,31:00.0,Brendan 455@mailxyz.com,@Brendan 45
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),3,2016/03/01,19,Cartoon Network,1.76E+09,24:00.0,Len 444@abcmail.com,@Len 44
+Gauteng,1,1,None,1,0,1,male,0.01,Youth (18-24),5,2016/02/04,12,Trace TV,1.76E+09,28:00.0,Len 444@abcmail.com,@Len 44
+Gauteng,1,1,white,0,1,1,female,0.01,Youth (18-24),7,2016/02/20,8,CNN,1.76E+09,45:00.0,Luann 184@abcmail.com,@Luann 18
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),4,2016/01/06,15,SawSee,1.76E+09,18:00.0,Charlie 365@mailxyz.com,@Charlie 36
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/23,15,Africa Magic,1.76E+09,42:00.0,Hyman 82@gmail.com,@Hyman 8
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),2,2016/03/14,8,Supersport Live Events,1.76E+09,19:00.0,Nakita 493@mail.com,None
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),7,2016/01/16,11,SawSee,1.76E+09,55:00.0,Donald 225@mailxyz.com,@Donald 22
+Gauteng,1,1,white,1,0,1,male,0.01,Youth (18-24),6,2016/03/04,7,Supersport Live Events,1.76E+09,59:00.0,Loyd 495@mailxyz.com,@Loyd 49
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/26,13,ICC Cricket World Cup 2011,1.76E+09,53:00.0,Wilburn 305@mailxyz.com,@Wilburn 30
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/12,23,Cartoon Network,1.76E+09,59:00.0,Randy 395@mailxyz.com,@Randy 39
+Western Cape,1,1,black,1,0,1,male,0.01,Kids (0-17),2,2016/03/21,22,Channel O,1.76E+09,38:00.0,Markus 193@mail.com,@Markus 19
+Western Cape,1,1,coloured,1,0,1,male,0.01,Youth (18-24),2,2016/03/28,11,ICC Cricket World Cup 2011,1.76E+09,58:00.0,Markus 195@mailxyz.com,@Markus 19
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/18,9,Supersport Live Events,1.76E+09,31:00.0,Claud 341@yahoo.com,@Claud 34
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/24,17,Supersport Live Events,1.76E+09,50:00.0,Chas 352@gmail.com,@Chas 35
+Gauteng,1,1,None,0,1,1,female,0.01,Adult (25-34),4,2016/03/30,13,CNN,1.76E+09,28:00.0,Yolonda 355@mailxyz.com,@Yolonda 35
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),4,2016/02/03,20,Africa Magic,1.76E+09,24:00.0,Hugh15@mailxyz.com,@Hugh1
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/05,10,Boomerang,1.76E+09,36:00.0,Dee 211@yahoo.com,@Dee 21
+Eastern Cape,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),5,2016/02/25,5,Channel O,1.76E+09,15:00.0,Lucas 231@yahoo.com,@Lucas 23
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/02/17,15,SuperSport Blitz,1.76E+09,04:00.0,Emerson 243@mail.com,@Emerson 24
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),5,2016/03/24,10,Supersport Live Events,1.76E+09,59:00.0,Cody 123@mail.com,@Cody 12
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),7,2016/01/09,16,Supersport Live Events,1.76E+09,26:00.0,Jacinto 251@yahoo.com,@Jacinto 25
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/01/04,16,Channel O,1.76E+09,32:00.0,Chas 351@yahoo.com,@Chas 35
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),3,2016/03/29,13,ICC Cricket World Cup 2011,1.76E+09,36:00.0,Luanna 175@mailxyz.com,None
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),3,2016/03/29,13,ICC Cricket World Cup 2011,1.76E+09,17:00.0,Raymundo 433@mail.com,@Raymundo 43
+Mpumalanga,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),2,2016/03/28,15,kykNET,1.76E+09,14:00.0,Markus 192@gmail.com,@Markus 19
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),2,2016/01/25,12,Trace TV,1.76E+09,46:00.0,Hugh15@mailxyz.com,@Hugh1
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/01/20,19,Cartoon Network,1.76E+09,39:00.0,Hyman 85@mailxyz.com,@Hyman 8
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,9,ICC Cricket World Cup 2011,1.76E+09,46:00.0,Bret 314@abcmail.com,@Bret 31
+Eastern Cape,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),4,2016/02/24,13,ICC Cricket World Cup 2011,1.76E+09,04:00.0,Cody 123@mail.com,@Cody 12
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,23,Boomerang,1.76E+09,03:00.0,Earl 423@mail.com,@Earl 42
+Eastern Cape,1,1,None,1,0,1,male,0.01,Youth (18-24),1,2016/02/28,19,Trace TV,1.76E+09,41:00.0,Robby 163@mail.com,@Robby 16
+Limpopo,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/02/19,17,Supersport Live Events,1.76E+09,42:00.0,Jared 503@mail.com,@Jared 50
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/01/15,19,Supersport Live Events,1.76E+09,57:00.0,Wilburn 302@gmail.com,@Wilburn 30
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/01/14,10,Supersport Live Events,1.76E+09,30:00.0,Michel 202@gmail.com,@Michel 20
+Limpopo,1,1,coloured,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,6,ICC Cricket World Cup 2011,1.76E+09,52:00.0,Claud 342@gmail.com,@Claud 34
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),6,2016/03/11,11,ICC Cricket World Cup 2011,1.76E+09,24:00.0,Kyle 64@abcmail.com,@Kyle 6
+Gauteng,1,1,None,1,0,1,male,0.01,Retired (55+),7,2016/03/05,23,Supersport Live Events,1.76E+09,04:00.0,Robby 162@gmail.com,@Robby 16
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/03/05,17,E! Entertainment,1.76E+09,58:00.0,Raymundo 432@gmail.com,@Raymundo 43
+Gauteng,1,1,black,1,0,1,male,0.01,Kids (0-17),6,2016/02/05,7,CNN,1.76E+09,40:00.0,Brendan 451@yahoo.com,@Brendan 45
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),6,2016/03/04,8,Supersport Live Events,1.76E+09,51:00.0,Jacinto 253@mail.com,@Jacinto 25
+Northern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/01/16,16,Africa Magic,1.76E+09,12:00.0,Dee 214@abcmail.com,@Dee 21
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/01/15,10,Africa Magic,1.76E+09,12:00.0,Michel 202@gmail.com,@Michel 20
+Western Cape,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/03/18,23,Boomerang,1.76E+09,24:00.0,Jared 503@mail.com,@Jared 50
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),3,2016/01/12,18,Supersport Live Events,1.76E+09,49:00.0,Raymundo 433@mail.com,@Raymundo 43
+Limpopo,1,1,white,1,0,1,male,0.01,Youth (18-24),4,2016/03/23,21,Trace TV,1.76E+09,06:00.0,Romeo 371@yahoo.com,@Romeo 37
+Eastern Cape,1,1,coloured,1,0,1,male,0.01,Youth (18-24),2,2016/01/11,13,Trace TV,1.76E+09,32:00.0,Hyman 85@mailxyz.com,@Hyman 8
+Gauteng,1,1,indian_asian,0,1,1,female,0.01,Youth (18-24),5,2016/02/18,13,Cartoon Network,1.76E+09,22:00.0,Winona 71@yahoo.com,@Winona 7
+Free State,1,1,white,1,0,1,male,0.01,Youth (18-24),3,2016/03/01,11,M-Net,1.76E+09,22:00.0,Len 444@abcmail.com,@Len 44
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/02/17,20,SawSee,1.76E+09,23:00.0,Yong 483@mail.com,@Yong 48
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/19,18,Cartoon Network,1.76E+09,33:00.0,Stephen 152@gmail.com,@Stephen 15
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/18,23,ICC Cricket World Cup 2011,1.76E+09,52:00.0,Wilburn 305@mailxyz.com,@Wilburn 30
+Western Cape,1,1,black,0,1,1,female,0.01,Mature Adult (35-44),6,2016/02/19,16,Africa Magic,1.76E+09,54:00.0,Shelley 52@gmail.com,@Shelley 5
+Western Cape,1,1,coloured,0,1,1,female,0.01,Middle-Aged Adult (45-54),7,2016/03/19,20,Supersport Live Events,1.76E+09,21:00.0,Luann 464@abcmail.com,@Luann 46
+Western Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),4,2016/02/17,18,Boomerang,1.76E+09,06:00.0,Donald 221@yahoo.com,@Donald 22
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/01/16,20,Cartoon Network,1.76E+09,49:00.0,Markus 191@yahoo.com,@Markus 19
+North West,1,1,white,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/03/25,18,Cartoon Network,1.76E+09,12:00.0,Hyman 85@mailxyz.com,@Hyman 8
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/01/14,17,Channel O,1.76E+09,54:00.0,Claud 345@mailxyz.com,@Claud 34
+Western Cape,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/02,10,ICC Cricket World Cup 2011,1.76E+09,38:00.0,Romeo 374@abcmail.com,@Romeo 37
+Western Cape,1,1,indian_asian,0,1,1,female,0.01,Mature Adult (35-44),1,2016/01/10,6,Supersport Live Events,1.76E+09,43:00.0,Anette 143@mail.com,@Anette 14
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/03/31,0,CNN,1.76E+09,38:00.0,Romeo 375@mailxyz.com,@Romeo 37
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/03/25,20,Cartoon Network,1.76E+09,42:00.0,Claud 343@mail.com,@Claud 34
+Western Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/02/09,18,SuperSport Blitz,1.76E+09,05:00.0,Charlie 362@gmail.com,@Charlie 36
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/16,12,ICC Cricket World Cup 2011,1.76E+09,40:00.0,Lucas 235@mailxyz.com,@Lucas 23
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/02/05,14,Supersport Live Events,1.76E+09,13:00.0,Yong 483@mail.com,@Yong 48
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),2,2016/03/28,18,CNN,1.76E+09,58:00.0,Brendan 452@gmail.com,@Brendan 45
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/19,7,Africa Magic,1.76E+09,06:00.0,Loyd 493@mail.com,@Loyd 49
+Kwazulu Natal,1,1,indian_asian,0,1,1,female,0.01,Kids (0-17),5,2016/02/18,20,M-Net,1.76E+09,27:00.0,Rebekah 225@mailxyz.com,@Rebekah 22
+Gauteng,1,1,coloured,0,1,1,female,0.01,Youth (18-24),6,2016/03/25,14,ICC Cricket World Cup 2011,1.76E+09,10:00.0,Earline 94@abcmail.com,@Earline 9
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/21,22,SawSee,1.76E+09,44:00.0,Haywood 95@mailxyz.com,@Haywood 9
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),1,2016/01/31,5,Trace TV,1.76E+09,40:00.0,Robby 165@mailxyz.com,@Robby 16
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),6,2016/02/26,16,ICC Cricket World Cup 2011,1.76E+09,41:00.0,Loyd 493@mail.com,@Loyd 49
+Gauteng,1,1,white,1,0,1,male,0.01,Youth (18-24),1,2016/01/10,14,Trace TV,1.76E+09,40:00.0,Lucas 231@yahoo.com,@Lucas 23
+Northern Cape,1,1,black,0,1,1,female,0.01,Mature Adult (35-44),3,2016/03/01,14,E! Entertainment,1.76E+09,56:00.0,Alecia 343@mail.com,@Alecia 34
+Eastern Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,9,Supersport Live Events,1.76E+09,26:00.0,Charlie 361@yahoo.com,@Charlie 36
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,12,ICC Cricket World Cup 2011,1.76E+09,19:00.0,Carter 32@gmail.com,@Carter 3
+Western Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,18,Vuzu,1.76E+09,05:00.0,Jacinto 251@yahoo.com,@Jacinto 25
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/18,0,Boomerang,1.76E+09,32:00.0,Loyd 495@mailxyz.com,@Loyd 49
+Limpopo,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/15,19,Africa Magic,1.76E+09,12:00.0,Abel 185@mailxyz.com,@Abel 18
+Limpopo,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/03/05,12,Boomerang,1.76E+09,00:00.0,Jacinto 255@mailxyz.com,@Jacinto 25
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Kids (0-17),5,2016/03/17,18,Africa Magic,1.76E+09,17:00.0,Chas 353@mail.com,@Chas 35
+North West,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/12,20,Boomerang,1.76E+09,25:00.0,Cody 124@abcmail.com,@Cody 12
+Limpopo,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),4,2016/01/13,14,Africa Magic,1.76E+09,44:00.0,Raymundo 433@mail.com,@Raymundo 43
+Eastern Cape,1,1,black,1,0,1,male,0.01,Youth (18-24),5,2016/01/07,19,E! Entertainment,1.76E+09,38:00.0,Brendan 455@mailxyz.com,@Brendan 45
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/03/01,21,Supersport Live Events,1.76E+09,20:00.0,Hyman 81@yahoo.com,@Hyman 8
+Gauteng,1,1,coloured,1,0,1,male,0.01,Adult (25-34),2,2016/03/07,9,DStv Events 1,1.76E+09,10:00.0,Claud 344@abcmail.com,@Claud 34
+Gauteng,1,1,white,1,0,1,male,0.01,Youth (18-24),7,2016/03/26,17,Cartoon Network,1.76E+09,56:00.0,Lane 112@gmail.com,@Lane 11
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),4,2016/02/24,12,Vuzu,1.76E+09,30:00.0,Kyle 64@abcmail.com,@Kyle 6
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/03/30,20,SuperSport Blitz,1.76E+09,44:00.0,Loyd 493@mail.com,@Loyd 49
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),1,2016/02/07,17,Supersport Live Events,1.76E+09,49:00.0,Abel 183@mail.com,@Abel 18
+Gauteng,1,1,black,0,1,1,female,0.01,Adult (25-34),5,2016/03/31,18,Vuzu,1.76E+09,55:00.0,Earline 281@yahoo.com,@Earline 28
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/01/27,18,Channel O,1.76E+09,01:00.0,Shane 25@mailxyz.com,@Shane 2
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/14,21,Supersport Live Events,1.76E+09,34:00.0,Dion 332@gmail.com,@Dion 33
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/12,17,Africa Magic,1.76E+09,47:00.0,Dee 215@mailxyz.com,@Dee 21
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/24,14,Supersport Live Events,1.76E+09,17:00.0,Claud 344@abcmail.com,@Claud 34
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/01/14,8,Channel O,1.76E+09,28:00.0,Emerson 244@abcmail.com,@Emerson 24
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),5,2016/03/24,15,Supersport Live Events,1.76E+09,01:00.0,Carter 33@mail.com,@Carter 3
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),3,2016/03/08,12,Trace TV,1.76E+09,47:00.0,Hollis 382@gmail.com,@Hollis 38
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,16,Supersport Live Events,1.76E+09,46:00.0,Bret 312@gmail.com,@Bret 31
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/02/16,21,SuperSport Blitz,1.76E+09,23:00.0,Irving 54@abcmail.com,@Irving 5
+Eastern Cape,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/08,14,Supersport Live Events,1.76E+09,03:00.0,Stacy 272@gmail.com,@Stacy 27
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),2,2016/03/28,17,Boomerang,1.76E+09,34:00.0,Lucas 232@gmail.com,@Lucas 23
+Gauteng,1,1,white,1,0,1,male,0.01,Youth (18-24),7,2016/02/27,17,Channel O,1.76E+09,58:00.0,Lane 113@mail.com,@Lane 11
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),5,2016/01/14,10,Supersport Live Events,1.76E+09,43:00.0,Lucas 235@mailxyz.com,@Lucas 23
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/14,6,Channel O,1.76E+09,55:00.0,Claud 342@gmail.com,@Claud 34
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/01,20,SuperSport Blitz,1.76E+09,51:00.0,Romeo 373@mail.com,@Romeo 37
+Gauteng,1,1,white,1,0,1,male,0.01,Retired (55+),4,2016/02/10,16,E! Entertainment,1.76E+09,46:00.0,Lloyd 74@abcmail.com,@Lloyd 7
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/01/08,19,Channel O,1.76E+09,36:00.0,Filiberto 43@mail.com,@Filiberto 4
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),5,2016/03/03,16,Supersport Live Events,1.76E+09,05:00.0,Stacy 272@gmail.com,@Stacy 27
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/22,21,Channel O,1.76E+09,49:00.0,Robby 163@mail.com,@Robby 16
+Northern Cape,1,1,coloured,1,0,1,male,0.01,Youth (18-24),4,2016/02/24,15,ICC Cricket World Cup 2011,1.76E+09,25:00.0,Stephen 155@mailxyz.com,@Stephen 15
+Gauteng,1,1,coloured,1,0,1,male,0.01,Adult (25-34),3,2016/02/16,16,Cartoon Network,1.76E+09,34:00.0,Efren 134@abcmail.com,@Efren 13
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,9,Supersport Live Events,1.76E+09,55:00.0,Jacinto 255@mailxyz.com,@Jacinto 25
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/01/15,19,Trace TV,1.76E+09,37:00.0,Donald 223@mail.com,@Donald 22
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),2,2016/02/01,18,CNN,1.76E+09,18:00.0,Markus 193@mail.com,@Markus 19
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/06,0,Boomerang,1.76E+09,13:00.0,Valentine 473@mail.com,@Valentine 47
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/03/25,17,ICC Cricket World Cup 2011,1.76E+09,58:00.0,Art 404@abcmail.com,@Art 40
+Mpumalanga,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),6,2016/01/01,11,E! Entertainment,1.76E+09,40:00.0,Art 403@mail.com,@Art 40
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/15,10,Channel O,1.76E+09,01:00.0,Haywood 92@gmail.com,@Haywood 9
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),6,2016/02/05,22,Supersport Live Events,1.76E+09,06:00.0,Jared 502@gmail.com,@Jared 50
+Eastern Cape,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/03/22,18,Channel O,1.76E+09,50:00.0,Lucas 231@yahoo.com,@Lucas 23
+Western Cape,1,1,coloured,0,1,1,female,0.01,Mature Adult (35-44),6,2016/03/18,13,Trace TV,1.76E+09,42:00.0,Rebecka 172@gmail.com,@Rebecka 17
+Eastern Cape,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/11,9,CNN,1.76E+09,51:00.0,Lloyd 75@mailxyz.com,@Lloyd 7
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/03/02,15,Supersport Live Events,1.76E+09,22:00.0,Hyman 83@mail.com,@Hyman 8
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/03/22,13,CNN,1.76E+09,10:00.0,Kip 145@mailxyz.com,@Kip 14
+Free State,1,1,black,0,1,1,female,0.01,Youth (18-24),3,2016/02/02,16,Channel O,1.76E+09,15:00.0,Bess 151@yahoo.com,@Bess 15
+Gauteng,1,1,None,0,1,1,female,0.01,Adult (25-34),6,2016/03/04,19,Cartoon Network,1.76E+09,23:00.0,Rebekah 91@yahoo.com,@Rebekah 9
+Western Cape,1,1,indian_asian,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/03/23,12,SuperSport Blitz,1.76E+09,47:00.0,Brendan 452@gmail.com,@Brendan 45
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),2,2016/03/07,8,Trace TV,1.76E+09,52:00.0,Randy 394@abcmail.com,@Randy 39
+Western Cape,1,1,None,0,1,1,female,0.01,Middle-Aged Adult (45-54),5,2016/03/31,23,Trace TV,1.76E+09,42:00.0,Alecia 164@abcmail.com,@Alecia 16
+Limpopo,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/01/06,19,Trace TV,1.76E+09,19:00.0,Wilton 411@yahoo.com,@Wilton 41
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),4,2016/02/03,16,Channel O,1.76E+09,13:00.0,Irving 51@yahoo.com,@Irving 5
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/02/09,19,Cartoon Network,1.76E+09,29:00.0,Cory 103@mail.com,@Cory 10
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),3,2016/02/09,19,Boomerang,1.76E+09,26:00.0,Valentine 474@abcmail.com,@Valentine 47
+Limpopo,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/15,19,SuperSport Blitz,1.76E+09,15:00.0,Abel 185@mailxyz.com,@Abel 18
+Eastern Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/18,10,Channel O,1.76E+09,30:00.0,Cory 102@gmail.com,@Cory 10
+Eastern Cape,1,1,black,1,0,1,male,0.01,Retired (55+),1,2016/01/24,20,Cartoon Network,1.76E+09,25:00.0,Cory 103@mail.com,@Cory 10
+Kwazulu Natal,1,1,coloured,1,0,1,male,0.01,Youth (18-24),4,2016/01/13,20,Boomerang,1.76E+09,09:00.0,Carter 32@gmail.com,@Carter 3
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,16,Channel O,1.76E+09,36:00.0,Jacinto 255@mailxyz.com,@Jacinto 25
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,14,SuperSport Blitz,1.76E+09,15:00.0,Valentine 474@abcmail.com,@Valentine 47
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),7,2016/01/23,6,CNN,1.76E+09,48:00.0,Randy 394@abcmail.com,@Randy 39
+Western Cape,1,1,coloured,1,0,1,male,0.01,Kids (0-17),5,2016/02/18,20,SuperSport Blitz,1.76E+09,14:00.0,Hugh14@abcmail.com,@Hugh1
+Gauteng,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/02,21,CNN,1.76E+09,11:00.0,Claud 342@gmail.com,@Claud 34
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/21,15,ICC Cricket World Cup 2011,1.76E+09,21:00.0,Randy 391@yahoo.com,@Randy 39
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),1,2016/02/21,18,Trace TV,1.76E+09,33:00.0,Loyd 494@abcmail.com,@Loyd 49
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),2,2016/02/29,1,Boomerang,1.76E+09,09:00.0,Earl 422@gmail.com,@Earl 42
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),7,2016/01/09,22,SuperSport Blitz,1.76E+09,56:00.0,Minerva 215@mailxyz.com,None
+Gauteng,1,1,black,0,1,1,female,0.01,Middle-Aged Adult (45-54),6,2016/04/01,1,CNN,1.76E+09,37:00.0,Nakita 355@mailxyz.com,@Nakita 35
+Western Cape,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),1,2016/01/10,19,Vuzu,1.76E+09,36:00.0,Haywood 95@mailxyz.com,@Haywood 9
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/22,18,E! Entertainment,1.76E+09,29:00.0,Cory 104@abcmail.com,@Cory 10
+Eastern Cape,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/27,14,SawSee,1.76E+09,58:00.0,Kip 144@abcmail.com,@Kip 14
+Gauteng,1,1,white,1,0,1,male,0.01,Youth (18-24),7,2016/01/30,19,Cartoon Network,1.76E+09,21:00.0,Royal 173@mail.com,@Royal 17
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),6,2016/01/01,15,Channel O,1.76E+09,33:00.0,Reagan 72@gmail.com,None
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/03/06,19,Africa Magic,1.76E+09,37:00.0,Efren 131@yahoo.com,@Efren 13
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/03/10,20,CNN,1.76E+09,59:00.0,Irving 55@mailxyz.com,@Irving 5
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/03/18,20,Channel O,1.76E+09,35:00.0,Randy 393@mail.com,@Randy 39
+Northern Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),4,2016/03/09,14,ICC Cricket World Cup 2011,1.76E+09,11:00.0,Haywood 94@abcmail.com,@Haywood 9
+North West,1,1,black,1,0,1,male,0.01,Youth (18-24),1,2016/02/28,13,Channel O,1.76E+09,57:00.0,Bernardo 322@gmail.com,@Bernardo 32
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/01/24,20,Channel O,1.76E+09,17:00.0,Shane 25@mailxyz.com,@Shane 2
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/30,12,ICC Cricket World Cup 2011,1.76E+09,04:00.0,Jacinto 253@mail.com,@Jacinto 25
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/25,15,ICC Cricket World Cup 2011,1.76E+09,55:00.0,Shane 22@gmail.com,@Shane 2
+Kwazulu Natal,1,1,coloured,1,0,1,male,0.01,Retired (55+),4,2016/03/30,16,Boomerang,1.76E+09,58:00.0,Samuel 261@yahoo.com,@Samuel 26
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),2,2016/01/25,23,M-Net,1.76E+09,42:00.0,Yong 483@mail.com,@Yong 48
+Gauteng,1,1,black,0,1,1,female,0.01,Adult (25-34),5,2016/03/31,19,Africa Magic,1.76E+09,49:00.0,Earline 281@yahoo.com,@Earline 28
+Mpumalanga,1,1,None,1,0,1,male,0.01,Adult (25-34),3,2016/03/01,13,Boomerang,1.76E+09,27:00.0,Bret 313@mail.com,@Bret 31
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/26,12,Supersport Live Events,1.76E+09,15:00.0,Raymundo 434@abcmail.com,@Raymundo 43
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/03/11,8,Channel O,1.76E+09,29:00.0,Abel 181@yahoo.com,@Abel 18
+Eastern Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),3,2016/01/12,19,Cartoon Network,1.76E+09,25:00.0,Len 445@mailxyz.com,@Len 44
+Eastern Cape,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),1,2016/01/03,21,Africa Magic,1.76E+09,10:00.0,Chas 354@abcmail.com,@Chas 35
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/03/11,19,Supersport Live Events,1.76E+09,54:00.0,Eli 293@mail.com,@Eli 29
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),3,2016/03/29,13,ICC Cricket World Cup 2011,1.76E+09,05:00.0,Kip 145@mailxyz.com,@Kip 14
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),5,2016/03/03,8,ICC Cricket World Cup 2011,1.76E+09,27:00.0,Kyle 63@mail.com,@Kyle 6
+Gauteng,1,1,black,0,1,1,female,0.01,Youth (18-24),4,2016/03/02,18,Channel O,1.76E+09,29:00.0,Williemae 335@mailxyz.com,@Williemae 33
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/12,14,ICC Cricket World Cup 2011,1.76E+09,44:00.0,Michel 204@abcmail.com,@Michel 20
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/03/22,14,Channel O,1.76E+09,51:00.0,Markus 192@gmail.com,@Markus 19
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),1,2016/01/03,8,Cartoon Network,1.76E+09,42:00.0,Michel 204@abcmail.com,@Michel 20
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),5,2016/03/03,23,SawSee,1.76E+09,01:00.0,Kyle 61@yahoo.com,@Kyle 6
+North West,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),6,2016/03/25,17,ICC Cricket World Cup 2011,1.76E+09,18:00.0,Art 404@abcmail.com,@Art 40
+Mpumalanga,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/02/06,14,Africa Magic,1.76E+09,44:00.0,Lane 114@abcmail.com,@Lane 11
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),6,2016/01/08,8,DStv Events 1,1.76E+09,12:00.0,Teresia 484@abcmail.com,None
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,8,ICC Cricket World Cup 2011,1.76E+09,32:00.0,Carter 33@mail.com,@Carter 3
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Retired (55+),4,2016/03/16,11,Channel O,1.76E+09,33:00.0,Samuel 264@abcmail.com,@Samuel 26
+Mpumalanga,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/29,10,Trace TV,1.76E+09,39:00.0,Jacinto 253@mail.com,@Jacinto 25
+Mpumalanga,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),2,2016/03/28,15,Supersport Live Events,1.76E+09,22:00.0,Hyman 83@mail.com,@Hyman 8
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),2,2016/03/28,17,Channel O,1.76E+09,50:00.0,Markus 192@gmail.com,@Markus 19
+Western Cape,1,1,coloured,0,1,1,female,0.01,Mature Adult (35-44),1,2016/02/14,22,SuperSport Blitz,1.76E+09,46:00.0,Katharina 253@mail.com,@Katharina 25
+Gauteng,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),1,2016/02/07,17,Supersport Live Events,1.76E+09,19:00.0,Emerson 244@abcmail.com,@Emerson 24
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/03/04,11,Africa Magic,1.76E+09,18:00.0,Cory 101@yahoo.com,@Cory 10
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/04,9,ICC Cricket World Cup 2011,1.76E+09,52:00.0,Loyd 494@abcmail.com,@Loyd 49
+Gauteng,1,1,None,1,0,1,male,0.01,Adult (25-34),5,2016/02/18,9,Supersport Live Events,1.76E+09,07:00.0,Hugh13@mail.com,@Hugh1
+Western Cape,1,1,coloured,1,0,1,male,0.01,Youth (18-24),6,2016/02/12,10,Trace TV,1.76E+09,54:00.0,Haywood 92@gmail.com,@Haywood 9
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),1,2016/01/03,16,SawSee,1.76E+09,11:00.0,Stephen 152@gmail.com,@Stephen 15
+Mpumalanga,1,1,None,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,19,Supersport Live Events,1.76E+09,55:00.0,Romeo 373@mail.com,@Romeo 37
+Eastern Cape,1,1,black,0,1,1,female,0.01,Youth (18-24),7,2016/01/02,9,Cartoon Network,1.76E+09,58:00.0,Earline 293@mail.com,@Earline 29
+North West,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/02/19,21,Supersport Live Events,1.76E+09,04:00.0,Jared 505@mailxyz.com,@Jared 50
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/01,21,Trace TV,1.76E+09,29:00.0,Shane 23@mail.com,@Shane 2
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/01/14,10,MK,1.76E+09,32:00.0,Michel 202@gmail.com,@Michel 20
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),7,2016/03/26,14,ICC Cricket World Cup 2011,1.76E+09,18:00.0,Rebecka 102@gmail.com,None
+Limpopo,1,1,black,0,1,1,female,0.01,Adult (25-34),3,2016/03/22,8,Africa Magic,1.76E+09,25:00.0,Krysta 181@yahoo.com,@Krysta 18
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),5,2016/03/24,14,Supersport Live Events,1.76E+09,20:00.0,Efren 133@mail.com,@Efren 13
+Eastern Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),6,2016/01/15,12,Cartoon Network,1.76E+09,11:00.0,Lucas 234@abcmail.com,@Lucas 23
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/27,18,Supersport Live Events,1.76E+09,58:00.0,Jacinto 251@yahoo.com,@Jacinto 25
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),7,2016/02/06,8,Supersport Live Events,1.76E+09,56:00.0,Claud 344@abcmail.com,@Claud 34
+Gauteng,1,1,coloured,1,0,1,male,0.01,Youth (18-24),3,2016/01/19,18,Trace TV,1.76E+09,58:00.0,Eli 294@abcmail.com,@Eli 29
+Free State,1,1,white,1,0,1,male,0.01,Youth (18-24),6,2016/03/04,19,Supersport Live Events,1.76E+09,11:00.0,Lucas 235@mailxyz.com,@Lucas 23
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/05,18,Cartoon Network,1.76E+09,25:00.0,Valentine 474@abcmail.com,@Valentine 47
+Gauteng,1,1,white,1,0,1,male,0.01,Youth (18-24),6,2016/02/19,19,SuperSport Blitz,1.76E+09,18:00.0,Yong 481@yahoo.com,@Yong 48
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),5,2016/02/18,19,Trace TV,1.76E+09,40:00.0,Haywood 95@mailxyz.com,@Haywood 9
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),2,2016/01/04,0,E! Entertainment,1.76E+09,55:00.0,Samuel 265@mailxyz.com,@Samuel 26
+Western Cape,1,1,white,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/02/13,12,Channel O,1.76E+09,20:00.0,Raymundo 434@abcmail.com,@Raymundo 43
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/02/03,22,CNN,1.76E+09,19:00.0,Royal 171@yahoo.com,@Royal 17
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),5,2016/03/03,18,Supersport Live Events,1.76E+09,03:00.0,Claud 344@abcmail.com,@Claud 34
+Free State,1,1,black,0,1,1,female,0.01,Youth (18-24),3,2016/01/05,14,E! Entertainment,1.76E+09,11:00.0,Tiffani 93@mail.com,@Tiffani 9
+Eastern Cape,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/19,18,ICC Cricket World Cup 2011,1.76E+09,33:00.0,Kip 144@abcmail.com,@Kip 14
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/02/19,13,Channel O,1.76E+09,11:00.0,Cody 122@gmail.com,@Cody 12
+Gauteng,1,1,white,1,0,1,male,0.01,Retired (55+),6,2016/03/11,15,CNN,1.76E+09,37:00.0,Lucas 234@abcmail.com,@Lucas 23
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),6,2016/03/18,16,Boomerang,1.76E+09,43:00.0,Carter 34@abcmail.com,@Carter 3
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),7,2016/02/27,10,ICC Cricket World Cup 2011,1.76E+09,16:00.0,Claud 345@mailxyz.com,@Claud 34
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),2,2016/03/28,14,ICC Cricket World Cup 2011,1.76E+09,29:00.0,Emerson 242@gmail.com,@Emerson 24
+Mpumalanga,1,1,None,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/02/06,12,Africa Magic,1.76E+09,24:00.0,Romeo 375@mailxyz.com,@Romeo 37
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/21,0,CNN,1.76E+09,04:00.0,Robby 163@mail.com,@Robby 16
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Youth (18-24),5,2016/01/07,1,SuperSport Blitz,1.76E+09,26:00.0,Len 441@yahoo.com,@Len 44
+Western Cape,1,1,coloured,0,1,1,female,0.01,Mature Adult (35-44),1,2016/02/21,6,Cartoon Network,1.76E+09,34:00.0,Torrie 82@gmail.com,@Torrie 8
+Gauteng,1,1,None,0,1,1,female,0.01,Adult (25-34),5,2016/03/10,20,Trace TV,1.76E+09,07:00.0,Torrie 142@gmail.com,@Torrie 14
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),6,2016/01/22,18,Cartoon Network,1.76E+09,30:00.0,Williemae 111@yahoo.com,None
+Limpopo,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/01,15,Trace TV,1.76E+09,58:00.0,Wilburn 302@gmail.com,@Wilburn 30
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),3,2016/03/29,18,ICC Cricket World Cup 2011,1.76E+09,42:00.0,Romeo 374@abcmail.com,@Romeo 37
+Kwazulu Natal,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/12,14,ICC Cricket World Cup 2011,1.76E+09,24:00.0,Chas 355@mailxyz.com,@Chas 35
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),3,2016/02/16,12,E! Entertainment,1.76E+09,23:00.0,Dion 335@mailxyz.com,@Dion 33
+Western Cape,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,14,Supersport Live Events,1.76E+09,32:00.0,Royal 175@mailxyz.com,@Royal 17
+Kwazulu Natal,1,1,coloured,0,1,1,female,0.01,Kids (0-17),7,2016/01/30,14,Africa Magic,1.76E+09,14:00.0,Emilie 325@mailxyz.com,@Emilie 32
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),7,2016/02/06,12,Trace TV,1.76E+09,38:00.0,Claud 344@abcmail.com,@Claud 34
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/22,22,Cartoon Network,1.76E+09,30:00.0,Cory 104@abcmail.com,@Cory 10
+Gauteng,1,1,None,0,1,1,female,0.01,Adult (25-34),7,2016/02/06,2,SuperSport Blitz,1.76E+09,17:00.0,Torrie 142@gmail.com,@Torrie 14
+Mpumalanga,1,1,None,1,0,1,male,0.01,Youth (18-24),6,2016/01/29,8,Channel O,1.76E+09,11:00.0,Wilburn 303@mail.com,@Wilburn 30
+Gauteng,1,1,indian_asian,0,1,1,female,0.01,Youth (18-24),2,2016/03/28,22,Supersport Live Events,1.76E+09,41:00.0,Earline 351@yahoo.com,@Earline 35
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/01/21,14,SawSee,1.76E+09,31:00.0,Cody 121@yahoo.com,@Cody 12
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),6,2016/02/26,13,ICC Cricket World Cup 2011,1.76E+09,57:00.0,Wilburn 303@mail.com,@Wilburn 30
+Western Cape,1,1,black,1,0,1,male,0.01,Retired (55+),5,2016/02/25,19,Supersport Live Events,1.76E+09,24:00.0,Cody 124@abcmail.com,@Cody 12
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/15,14,ICC Cricket World Cup 2011,1.76E+09,04:00.0,Kyle 61@yahoo.com,@Kyle 6
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/02/17,18,Channel O,1.76E+09,57:00.0,Hugh13@mail.com,@Hugh1
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),7,2016/03/26,7,CNN,1.76E+09,48:00.0,Felipa 325@mailxyz.com,None
+Free State,1,1,black,0,1,1,female,0.01,Mature Adult (35-44),5,2016/02/04,15,Africa Magic,1.76E+09,30:00.0,Iva 271@yahoo.com,@Iva 27
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/25,21,ICC Cricket World Cup 2011,1.76E+09,01:00.0,Robby 165@mailxyz.com,@Robby 16
+Mpumalanga,1,1,white,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/03/29,14,ICC Cricket World Cup 2011,1.76E+09,51:00.0,Len 443@mail.com,@Len 44
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),3,2016/03/01,9,Trace TV,1.76E+09,59:00.0,Jacinto 254@abcmail.com,@Jacinto 25
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,23,Supersport Live Events,1.76E+09,34:00.0,Hyman 84@abcmail.com,@Hyman 8
+Limpopo,1,1,black,0,1,1,female,0.01,Adult (25-34),3,2016/02/09,6,Africa Magic,1.76E+09,49:00.0,Rebekah 173@mail.com,@Rebekah 17
+Western Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/06,16,Africa Magic,1.76E+09,56:00.0,Lloyd 75@mailxyz.com,@Lloyd 7
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),6,2016/03/25,14,E! Entertainment,1.76E+09,36:00.0,Briana 445@mailxyz.com,None
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/22,16,Trace TV,1.76E+09,35:00.0,Stephen 155@mailxyz.com,@Stephen 15
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/03/05,14,Boomerang,1.76E+09,15:00.0,Earl 421@yahoo.com,@Earl 42
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),1,2016/03/13,0,Vuzu,1.76E+09,55:00.0,Art 402@gmail.com,@Art 40
+Western Cape,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/01/05,18,CNN,1.76E+09,08:00.0,Charlie 364@abcmail.com,@Charlie 36
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),2,2016/01/18,13,SuperSport Blitz,1.76E+09,28:00.0,Filiberto 42@gmail.com,@Filiberto 4
+Kwazulu Natal,1,1,black,0,1,1,female,0.01,Adult (25-34),6,2016/03/25,20,Channel O,1.76E+09,11:00.0,Carlota 201@yahoo.com,@Carlota 20
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/01/23,18,Supersport Live Events,1.76E+09,32:00.0,Cory 101@yahoo.com,@Cory 10
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/01/29,16,CNN,1.76E+09,58:00.0,Stefan 462@gmail.com,@Stefan 46
+Northern Cape,1,1,black,0,1,1,female,0.01,Adult (25-34),3,2016/02/09,14,Channel O,1.76E+09,09:00.0,Malika 282@gmail.com,@Malika 28
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/01/08,17,Trace TV,1.76E+09,55:00.0,Haywood 94@abcmail.com,@Haywood 9
+Gauteng,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),4,2016/02/03,15,SuperSport Blitz,1.76E+09,31:00.0,Randy 395@mailxyz.com,@Randy 39
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/01/02,16,DStv Events 1,1.76E+09,13:00.0,Earl 421@yahoo.com,@Earl 42
+Eastern Cape,1,1,indian_asian,1,0,1,male,0.01,Kids (0-17),6,2016/03/18,16,ICC Cricket World Cup 2011,1.76E+09,53:00.0,Len 445@mailxyz.com,@Len 44
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/01/13,20,Trace TV,1.76E+09,27:00.0,Randy 392@gmail.com,@Randy 39
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/09,19,Trace TV,1.76E+09,55:00.0,Stephen 155@mailxyz.com,@Stephen 15
+Gauteng,1,1,black,0,1,1,female,0.01,Adult (25-34),5,2016/01/14,13,Africa Magic,1.76E+09,43:00.0,Nakita 285@mailxyz.com,@Nakita 28
+Kwazulu Natal,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),1,2016/01/03,12,Trace TV,1.76E+09,05:00.0,Bernardo 325@mailxyz.com,@Bernardo 32
+Eastern Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/03/04,2,Cartoon Network,1.76E+09,02:00.0,Michel 202@gmail.com,@Michel 20
+Gauteng,1,1,white,0,1,1,female,0.01,Mature Adult (35-44),5,2016/03/31,17,Boomerang,1.76E+09,41:00.0,Epifania 125@mailxyz.com,@Epifania 12
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/01/22,18,Supersport Live Events,1.76E+09,04:00.0,Royal 171@yahoo.com,@Royal 17
+Gauteng,1,1,None,1,0,1,male,0.01,Middle-Aged Adult (45-54),5,2016/03/03,9,ICC Cricket World Cup 2011,1.76E+09,37:00.0,Bret 313@mail.com,@Bret 31
+Gauteng,1,1,white,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/03/02,16,Boomerang,1.76E+09,54:00.0,Royal 174@abcmail.com,@Royal 17
+Eastern Cape,1,1,black,0,1,1,female,0.01,Middle-Aged Adult (45-54),6,2016/02/26,15,Supersport Live Events,1.76E+09,52:00.0,Gretta 272@gmail.com,@Gretta 27
+Mpumalanga,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/01/09,13,Boomerang,1.76E+09,32:00.0,Hollis 382@gmail.com,@Hollis 38
+Gauteng,1,1,white,1,0,1,male,0.01,Retired (55+),5,2016/03/24,18,Supersport Live Events,1.76E+09,21:00.0,Bernardo 321@yahoo.com,@Bernardo 32
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),2,2016/01/11,22,Africa Magic,1.76E+09,08:00.0,Stefan 464@abcmail.com,@Stefan 46
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/01/23,22,Channel O,1.76E+09,39:00.0,Chas 355@mailxyz.com,@Chas 35
+Western Cape,1,1,coloured,1,0,1,male,0.01,Youth (18-24),7,2016/03/05,22,E! Entertainment,1.76E+09,19:00.0,Robby 161@yahoo.com,@Robby 16
+Kwazulu Natal,1,1,black,0,1,1,female,0.01,Adult (25-34),3,2016/02/02,19,SuperSport Blitz,1.76E+09,11:00.0,Trudie 385@mailxyz.com,@Trudie 38
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/02/23,18,kykNET,1.76E+09,11:00.0,Garry 284@abcmail.com,@Garry 28
+Eastern Cape,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/01/08,15,Cartoon Network,1.76E+09,14:00.0,Brendan 455@mailxyz.com,@Brendan 45
+Gauteng,1,1,coloured,1,0,1,male,0.01,Adult (25-34),7,2016/01/09,16,Channel O,1.76E+09,23:00.0,Haywood 95@mailxyz.com,@Haywood 9
+Western Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/01/19,17,Boomerang,1.76E+09,12:00.0,Donald 221@yahoo.com,@Donald 22
+Free State,1,1,white,1,0,1,male,0.01,Youth (18-24),6,2016/03/11,12,Supersport Live Events,1.76E+09,23:00.0,Claud 341@yahoo.com,@Claud 34
+Limpopo,1,1,black,1,0,1,male,0.01,Youth (18-24),7,2016/03/19,9,SuperSport Blitz,1.76E+09,32:00.0,Raymundo 435@mailxyz.com,@Raymundo 43
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),3,2016/03/08,16,Trace TV,1.76E+09,10:00.0,Dion 331@yahoo.com,@Dion 33
+Gauteng,1,1,white,1,0,1,male,0.01,Kids (0-17),6,2016/02/05,19,Trace TV,1.76E+09,34:00.0,Lloyd 74@abcmail.com,@Lloyd 7
+Gauteng,1,1,None,1,0,1,male,0.01,Adult (25-34),6,2016/03/25,13,ICC Cricket World Cup 2011,1.76E+09,53:00.0,Wilton 411@yahoo.com,@Wilton 41
+Western Cape,1,1,black,0,1,1,female,0.01,Adult (25-34),2,2016/01/04,14,Trace TV,1.76E+09,21:00.0,Williemae 131@yahoo.com,@Williemae 13
+Mpumalanga,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),1,2016/02/21,20,Africa Magic,1.76E+09,18:00.0,Cody 121@yahoo.com,@Cody 12
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),1,2016/02/07,19,Trace TV,1.76E+09,54:00.0,Claud 341@yahoo.com,@Claud 34
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/03/02,19,Trace TV,1.76E+09,56:00.0,Hyman 83@mail.com,@Hyman 8
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/02/26,23,Supersport Live Events,1.76E+09,25:00.0,Wilton 415@mailxyz.com,@Wilton 41
+Gauteng,1,1,black,0,1,1,female,0.01,Mature Adult (35-44),1,2016/02/14,10,Africa Magic,1.76E+09,39:00.0,Adela 12@gmail.com,@Adela 1
+Gauteng,1,1,white,1,0,1,male,0.01,Youth (18-24),5,2016/01/07,16,E! Entertainment,1.76E+09,49:00.0,Dee 215@mailxyz.com,@Dee 21
+Eastern Cape,1,1,black,1,0,1,male,0.01,Youth (18-24),7,2016/03/19,17,Supersport Live Events,1.76E+09,53:00.0,Lane 111@yahoo.com,@Lane 11
+Kwazulu Natal,1,1,indian_asian,0,1,1,female,0.01,Adult (25-34),6,2016/02/05,17,Supersport Live Events,1.76E+09,17:00.0,Reagan 502@gmail.com,@Reagan 50
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),7,2016/01/16,17,Supersport Live Events,1.76E+09,42:00.0,Stefan 465@mailxyz.com,@Stefan 46
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),5,2016/02/25,12,ICC Cricket World Cup 2011,1.76E+09,31:00.0,Raymundo 433@mail.com,@Raymundo 43
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/15,16,ICC Cricket World Cup 2011,1.76E+09,00:00.0,Bret 315@mailxyz.com,@Bret 31
+Mpumalanga,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/02/23,5,SawSee,1.76E+09,16:00.0,Emerson 241@yahoo.com,@Emerson 24
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/03/09,16,Channel O,1.76E+09,57:00.0,Dee 214@abcmail.com,@Dee 21
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,13,ICC Cricket World Cup 2011,1.76E+09,16:00.0,Lucas 232@gmail.com,@Lucas 23
+Gauteng,1,1,coloured,1,0,1,male,0.01,Youth (18-24),4,2016/01/20,18,Africa Magic,1.76E+09,40:00.0,Cory 102@gmail.com,@Cory 10
+Free State,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/03/16,20,Africa Magic,1.76E+09,33:00.0,Royal 171@yahoo.com,@Royal 17
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),7,2016/01/30,16,Trace TV,1.76E+09,50:00.0,Hugh15@mailxyz.com,@Hugh1
+Kwazulu Natal,1,1,coloured,1,0,1,male,0.01,Adult (25-34),1,2016/03/06,20,Cartoon Network,1.76E+09,51:00.0,Valentine 474@abcmail.com,@Valentine 47
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/10,14,Africa Magic,1.76E+09,50:00.0,Bernardo 323@mail.com,@Bernardo 32
+Western Cape,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),2,2016/03/07,20,Boomerang,1.76E+09,23:00.0,Garry 283@mail.com,@Garry 28
+Western Cape,1,1,other,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/01/08,20,SuperSport Blitz,1.76E+09,05:00.0,Efren 134@abcmail.com,@Efren 13
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),7,2016/02/20,22,Supersport Live Events,1.76E+09,15:00.0,Garry 281@yahoo.com,@Garry 28
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/30,12,ICC Cricket World Cup 2011,1.76E+09,46:00.0,Bret 314@abcmail.com,@Bret 31
+Western Cape,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/03,11,ICC Cricket World Cup 2011,1.76E+09,49:00.0,Filiberto 42@gmail.com,@Filiberto 4
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/01/15,1,Africa Magic,1.76E+09,09:00.0,Abel 185@mailxyz.com,@Abel 18
+Gauteng,1,1,white,0,1,1,female,0.01,Mature Adult (35-44),3,2016/03/29,2,Boomerang,1.76E+09,06:00.0,Blanca 331@yahoo.com,@Blanca 33
+Gauteng,1,1,black,0,1,1,female,0.01,Mature Adult (35-44),5,2016/01/28,20,Supersport Live Events,1.76E+09,49:00.0,Lillie 463@mail.com,@Lillie 46
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/06,2,SuperSport Blitz,1.76E+09,20:00.0,Valentine 473@mail.com,@Valentine 47
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/03/25,15,ICC Cricket World Cup 2011,1.76E+09,45:00.0,Haywood 91@yahoo.com,@Haywood 9
+Eastern Cape,1,1,None,0,1,1,female,0.01,Retired (55+),7,2016/02/27,22,Channel O,1.76E+09,25:00.0,Adela 364@abcmail.com,@Adela 36
+Free State,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/03/12,18,ICC Cricket World Cup 2011,1.76E+09,08:00.0,Lloyd 71@yahoo.com,@Lloyd 7
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/07,12,Cartoon Network,1.76E+09,02:00.0,Kip 141@yahoo.com,@Kip 14
+Mpumalanga,1,1,black,1,0,1,male,0.01,Kids (0-17),6,2016/01/01,15,Cartoon Network,1.76E+09,09:00.0,Len 442@gmail.com,@Len 44
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/03/28,14,Cartoon Network,1.76E+09,23:00.0,Robby 162@gmail.com,@Robby 16
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/02/19,16,Vuzu,1.76E+09,37:00.0,Irving 51@yahoo.com,@Irving 5
+Gauteng,1,1,white,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/02/27,11,SuperSport Blitz,1.76E+09,56:00.0,Hollis 383@mail.com,@Hollis 38
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/03/14,17,Africa Magic,1.76E+09,59:00.0,Randy 393@mail.com,@Randy 39
+Eastern Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/10,15,CNN,1.76E+09,24:00.0,Shane 24@abcmail.com,@Shane 2
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,14,Vuzu,1.76E+09,41:00.0,Bret 315@mailxyz.com,@Bret 31
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),3,2016/02/23,13,ICC Cricket World Cup 2011,1.76E+09,13:00.0,Hyman 85@mailxyz.com,@Hyman 8
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/01/15,13,Boomerang,1.76E+09,09:00.0,Lucas 235@mailxyz.com,@Lucas 23
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),7,2016/02/06,22,SuperSport Blitz,1.76E+09,11:00.0,Bernardo 324@abcmail.com,@Bernardo 32
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),1,2016/03/27,5,Cartoon Network,1.76E+09,41:00.0,Mellie 494@abcmail.com,None
+Western Cape,1,1,other,0,1,1,female,0.01,Kids (0-17),7,2016/01/09,17,Supersport Live Events,1.76E+09,41:00.0,Seema 462@gmail.com,@Seema 46
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/12,17,Cartoon Network,1.76E+09,52:00.0,Romeo 374@abcmail.com,@Romeo 37
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/02/12,15,E! Entertainment,1.76E+09,36:00.0,Donald 223@mail.com,@Donald 22
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/02/11,12,Channel O,1.76E+09,20:00.0,Len 444@abcmail.com,@Len 44
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/07,6,Trace TV,1.76E+09,38:00.0,Stephen 153@mail.com,@Stephen 15
+Western Cape,1,1,white,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/02/27,10,Boomerang,1.76E+09,22:00.0,Donald 222@gmail.com,@Donald 22
+Western Cape,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),7,2016/01/02,10,Channel O,1.76E+09,49:00.0,Wilburn 302@gmail.com,@Wilburn 30
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),3,2016/03/08,16,SuperSport Blitz,1.76E+09,41:00.0,Stephen 154@abcmail.com,@Stephen 15
+Mpumalanga,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/02/24,16,ICC Cricket World Cup 2011,1.76E+09,28:00.0,Jared 505@mailxyz.com,@Jared 50
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/03/25,11,Channel O,1.76E+09,24:00.0,Earl 422@gmail.com,@Earl 42
+Gauteng,1,1,indian_asian,0,1,1,female,0.01,Adult (25-34),6,2016/03/25,12,ICC Cricket World Cup 2011,1.76E+09,22:00.0,Luanna 334@abcmail.com,@Luanna 33
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/01/22,19,Supersport Live Events,1.76E+09,22:00.0,Hyman 85@mailxyz.com,@Hyman 8
+Kwazulu Natal,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/01/29,10,Africa Magic,1.76E+09,39:00.0,Kip 144@abcmail.com,@Kip 14
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/03/07,16,Channel O,1.76E+09,43:00.0,Irving 52@gmail.com,@Irving 5
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),7,2016/02/27,13,ICC Cricket World Cup 2011,1.76E+09,07:00.0,Efren 132@gmail.com,@Efren 13
+Eastern Cape,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),7,2016/01/02,0,E! Entertainment,1.76E+09,58:00.0,Stacy 273@mail.com,@Stacy 27
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/31,16,Trace TV,1.76E+09,52:00.0,Romeo 374@abcmail.com,@Romeo 37
+Western Cape,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/01/15,12,SuperSport Blitz,1.76E+09,35:00.0,Charlie 364@abcmail.com,@Charlie 36
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/03/13,14,Africa Magic,1.76E+09,07:00.0,Stefan 461@yahoo.com,@Stefan 46
+Mpumalanga,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/03/05,12,SuperSport Blitz,1.76E+09,49:00.0,Stephen 153@mail.com,@Stephen 15
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),7,2016/03/12,7,Channel O,1.76E+09,24:00.0,Carter 34@abcmail.com,@Carter 3
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/01/07,21,Africa Magic,1.76E+09,04:00.0,Efren 134@abcmail.com,@Efren 13
+Mpumalanga,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/20,15,Cartoon Network,1.76E+09,01:00.0,Bernardo 322@gmail.com,@Bernardo 32
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,10,Channel O,1.76E+09,42:00.0,Charlie 362@gmail.com,@Charlie 36
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/03/13,23,Boomerang,1.76E+09,56:00.0,Wilburn 305@mailxyz.com,@Wilburn 30
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),7,2016/01/09,10,Cartoon Network,1.76E+09,01:00.0,Earline 283@mail.com,None
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),6,2016/03/25,9,E! Entertainment,1.76E+09,19:00.0,Blanca 471@yahoo.com,None
+Gauteng,1,1,black,1,0,1,male,0.01,Retired (55+),6,2016/02/26,15,CNN,1.76E+09,14:00.0,Royal 175@mailxyz.com,@Royal 17
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),7,2016/03/05,8,Supersport Live Events,1.76E+09,48:00.0,Raymundo 435@mailxyz.com,@Raymundo 43
+Eastern Cape,1,1,None,1,0,1,male,0.01,Adult (25-34),7,2016/03/19,17,Supersport Live Events,1.76E+09,11:00.0,Filiberto 42@gmail.com,@Filiberto 4
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),3,2016/01/26,15,Trace TV,1.76E+09,22:00.0,Kyle 62@gmail.com,@Kyle 6
+Eastern Cape,1,1,black,1,0,1,male,0.01,Youth (18-24),4,2016/02/10,11,Trace TV,1.76E+09,24:00.0,Michel 205@mailxyz.com,@Michel 20
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/11,17,Channel O,1.76E+09,22:00.0,Jacinto 255@mailxyz.com,@Jacinto 25
+Limpopo,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/01/28,15,Channel O,1.76E+09,58:00.0,Loyd 495@mailxyz.com,@Loyd 49
+Free State,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/02/12,15,Trace TV,1.76E+09,38:00.0,Jacinto 252@gmail.com,@Jacinto 25
+Western Cape,1,1,coloured,1,0,1,male,0.01,Youth (18-24),1,2016/01/10,18,Channel O,1.76E+09,07:00.0,Charlie 365@mailxyz.com,@Charlie 36
+Western Cape,1,1,coloured,1,0,1,male,0.01,Youth (18-24),3,2016/03/22,1,Trace TV,1.76E+09,15:00.0,Kip 144@abcmail.com,@Kip 14
+Western Cape,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),2,2016/03/07,11,ICC Cricket World Cup 2011,1.76E+09,41:00.0,Emerson 243@mail.com,@Emerson 24
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/20,3,CNN,1.76E+09,25:00.0,Bret 315@mailxyz.com,@Bret 31
+North West,1,1,black,1,0,1,male,0.01,Retired (55+),4,2016/03/16,10,Channel O,1.76E+09,58:00.0,Markus 193@mail.com,@Markus 19
+Western Cape,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),2,2016/03/07,13,ICC Cricket World Cup 2011,1.76E+09,25:00.0,Garry 283@mail.com,@Garry 28
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),4,2016/03/16,13,ICC Cricket World Cup 2011,1.76E+09,31:00.0,Carter 31@yahoo.com,@Carter 3
+Northern Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),4,2016/02/24,19,ICC Cricket World Cup 2011,1.76E+09,22:00.0,Jacinto 255@mailxyz.com,@Jacinto 25
+North West,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/02/12,12,E! Entertainment,1.76E+09,21:00.0,Chas 352@gmail.com,@Chas 35
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/30,16,ICC Cricket World Cup 2011,1.76E+09,58:00.0,Stephen 153@mail.com,@Stephen 15
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/01/29,17,Channel O,1.76E+09,31:00.0,Stefan 465@mailxyz.com,@Stefan 46
+Eastern Cape,1,1,coloured,0,1,1,female,0.01,Adult (25-34),7,2016/02/06,13,Channel O,1.76E+09,34:00.0,Minerva 372@gmail.com,@Minerva 37
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),1,2016/02/07,11,SuperSport Blitz,1.76E+09,35:00.0,Hyman 81@yahoo.com,@Hyman 8
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/02/22,7,Cartoon Network,1.76E+09,13:00.0,Randy 395@mailxyz.com,@Randy 39
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/02/06,18,Supersport Live Events,1.76E+09,10:00.0,Kip 141@yahoo.com,@Kip 14
+Eastern Cape,1,1,black,1,0,1,male,0.01,Youth (18-24),2,2016/02/08,15,Channel O,1.76E+09,23:00.0,Lane 111@yahoo.com,@Lane 11
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),7,2016/03/05,10,Africa Magic,1.76E+09,42:00.0,Len 444@abcmail.com,@Len 44
+Eastern Cape,1,1,indian_asian,1,0,1,male,0.01,Kids (0-17),6,2016/03/18,12,ICC Cricket World Cup 2011,1.76E+09,20:00.0,Len 445@mailxyz.com,@Len 44
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/23,15,ICC Cricket World Cup 2011,1.76E+09,19:00.0,Michel 204@abcmail.com,@Michel 20
+Mpumalanga,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/04,16,Africa Magic,1.76E+09,16:00.0,Filiberto 44@abcmail.com,@Filiberto 4
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),3,2016/03/15,11,Cartoon Network,1.76E+09,36:00.0,Hugh14@abcmail.com,@Hugh1
+North West,1,1,black,1,0,1,male,0.01,Retired (55+),1,2016/03/20,14,Trace TV,1.76E+09,37:00.0,Kyle 63@mail.com,@Kyle 6
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/01/16,11,Cartoon Network,1.76E+09,22:00.0,Abel 182@gmail.com,@Abel 18
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),3,2016/03/01,19,SuperSport Blitz,1.76E+09,18:00.0,Jared 502@gmail.com,@Jared 50
+Western Cape,1,1,black,1,0,1,male,0.01,Youth (18-24),5,2016/03/03,15,M-Net,1.76E+09,09:00.0,Randy 395@mailxyz.com,@Randy 39
+Gauteng,1,1,white,1,0,1,male,0.01,Youth (18-24),2,2016/02/22,22,Boomerang,1.76E+09,37:00.0,Kyle 65@mailxyz.com,@Kyle 6
+Mpumalanga,1,1,white,1,0,1,male,0.01,Youth (18-24),3,2016/01/12,14,Cartoon Network,1.76E+09,42:00.0,Brendan 453@mail.com,@Brendan 45
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/02/27,11,SuperSport Blitz,1.76E+09,10:00.0,Kip 145@mailxyz.com,@Kip 14
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/06,12,ICC Cricket World Cup 2011,1.76E+09,04:00.0,Emerson 245@mailxyz.com,@Emerson 24
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Youth (18-24),3,2016/03/01,22,Trace TV,1.76E+09,23:00.0,Hugh13@mail.com,@Hugh1
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/02/06,13,Channel O,1.76E+09,23:00.0,Bret 315@mailxyz.com,@Bret 31
+Limpopo,1,1,black,1,0,1,male,0.01,Youth (18-24),1,2016/01/03,15,Channel O,1.76E+09,52:00.0,Efren 133@mail.com,@Efren 13
+Northern Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),1,2016/02/14,16,Boomerang,1.76E+09,43:00.0,Kyle 62@gmail.com,@Kyle 6
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,13,ICC Cricket World Cup 2011,1.76E+09,43:00.0,Eli 291@yahoo.com,@Eli 29
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/06,7,ICC Cricket World Cup 2011,1.76E+09,39:00.0,Stephen 151@yahoo.com,@Stephen 15
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),6,2016/02/19,21,Channel O,1.76E+09,23:00.0,Charlie 361@yahoo.com,@Charlie 36
+Gauteng,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/18,15,Cartoon Network,1.76E+09,42:00.0,Filiberto 45@mailxyz.com,@Filiberto 4
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/02/15,14,Channel O,1.76E+09,34:00.0,Lucas 235@mailxyz.com,@Lucas 23
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),4,2016/03/02,11,ICC Cricket World Cup 2011,1.76E+09,28:00.0,Katharina 182@gmail.com,None
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/01/22,0,Boomerang,1.76E+09,17:00.0,Randy 393@mail.com,@Randy 39
+Mpumalanga,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/03,9,Cartoon Network,1.76E+09,55:00.0,Irving 52@gmail.com,@Irving 5
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/03/06,17,Supersport Live Events,1.76E+09,13:00.0,Wilton 412@gmail.com,@Wilton 41
+Limpopo,1,1,white,1,0,1,male,0.01,Adult (25-34),2,2016/03/28,3,Cartoon Network,1.76E+09,41:00.0,Stacy 275@mailxyz.com,@Stacy 27
+Eastern Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),4,2016/03/09,8,Channel O,1.76E+09,22:00.0,Emerson 244@abcmail.com,@Emerson 24
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/10,21,Cartoon Network,1.76E+09,09:00.0,Randy 394@abcmail.com,@Randy 39
+Northern Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),2,2016/02/08,20,Boomerang,1.76E+09,02:00.0,Valentine 475@mailxyz.com,@Valentine 47
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/21,9,Africa Magic,1.76E+09,28:00.0,Emerson 243@mail.com,@Emerson 24
+Kwazulu Natal,1,1,other,1,0,1,male,0.01,Adult (25-34),6,2016/03/04,23,SuperSport Blitz,1.76E+09,47:00.0,Efren 134@abcmail.com,@Efren 13
+Western Cape,1,1,white,1,0,1,male,0.01,Adult (25-34),7,2016/01/23,13,Cartoon Network,1.76E+09,20:00.0,Brendan 451@yahoo.com,@Brendan 45
+Eastern Cape,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/03/15,12,ICC Cricket World Cup 2011,1.76E+09,28:00.0,Efren 134@abcmail.com,@Efren 13
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/24,20,SuperSport Blitz,1.76E+09,14:00.0,Eli 291@yahoo.com,@Eli 29
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/05,17,Cartoon Network,1.76E+09,56:00.0,Dee 215@mailxyz.com,@Dee 21
+Free State,1,1,white,1,0,1,male,0.01,Adult (25-34),5,2016/03/03,12,Supersport Live Events,1.76E+09,21:00.0,Michel 204@abcmail.com,@Michel 20
+Free State,1,1,black,0,1,1,female,0.01,Adult (25-34),7,2016/02/20,14,Supersport Live Events,1.76E+09,54:00.0,Emilie 344@abcmail.com,@Emilie 34
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),1,2016/03/20,18,Cartoon Network,1.76E+09,17:00.0,Desirae 505@mailxyz.com,None
+Northern Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),7,2016/01/30,20,SawSee,1.76E+09,00:00.0,Stefan 461@yahoo.com,@Stefan 46
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/03/05,17,ICC Cricket World Cup 2011,1.76E+09,27:00.0,Cody 125@mailxyz.com,@Cody 12
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/20,9,Africa Magic,1.76E+09,49:00.0,Hyman 82@gmail.com,@Hyman 8
+Gauteng,1,1,indian_asian,0,1,1,female,0.01,Adult (25-34),5,2016/03/24,17,Supersport Live Events,1.76E+09,42:00.0,Nakita 142@gmail.com,@Nakita 14
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/01/31,19,Africa Magic,1.76E+09,23:00.0,Emerson 243@mail.com,@Emerson 24
+Northern Cape,1,1,white,1,0,1,male,0.01,Retired (55+),2,2016/03/14,17,CNN,1.76E+09,57:00.0,Stephen 153@mail.com,@Stephen 15
+Gauteng,1,1,coloured,1,0,1,male,0.01,Youth (18-24),7,2016/03/05,11,ICC Cricket World Cup 2011,1.76E+09,40:00.0,Eli 294@abcmail.com,@Eli 29
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),2,2016/03/07,16,ICC Cricket World Cup 2011,1.76E+09,52:00.0,Bernardo 321@yahoo.com,@Bernardo 32
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/25,16,ICC Cricket World Cup 2011,1.76E+09,10:00.0,Abel 183@mail.com,@Abel 18
+Gauteng,1,1,white,0,1,1,female,0.01,Mature Adult (35-44),2,2016/03/14,23,E! Entertainment,1.76E+09,52:00.0,Desirae 302@gmail.com,@Desirae 30
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),2,2016/01/11,16,Cartoon Network,1.76E+09,03:00.0,Tiffani 171@yahoo.com,None
+Limpopo,1,1,black,1,0,1,male,0.01,Youth (18-24),1,2016/01/10,7,Boomerang,1.76E+09,25:00.0,Royal 173@mail.com,@Royal 17
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),2,2016/03/07,20,Supersport Live Events,1.76E+09,39:00.0,Garry 281@yahoo.com,@Garry 28
+Gauteng,1,1,white,1,0,1,male,0.01,Youth (18-24),4,2016/03/23,14,SuperSport Blitz,1.76E+09,33:00.0,Michel 205@mailxyz.com,@Michel 20
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),4,2016/02/24,11,ICC Cricket World Cup 2011,1.76E+09,19:00.0,Robby 161@yahoo.com,@Robby 16
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),2,2016/03/28,11,ICC Cricket World Cup 2011,1.76E+09,41:00.0,Hollis 385@mailxyz.com,@Hollis 38
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/01/21,17,Africa Magic,1.76E+09,12:00.0,Lloyd 73@mail.com,@Lloyd 7
+Free State,1,1,black,1,0,1,male,0.01,Youth (18-24),3,2016/02/23,6,SuperSport Blitz,1.76E+09,06:00.0,Len 444@abcmail.com,@Len 44
+Western Cape,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),2,2016/02/15,15,Trace TV,1.76E+09,56:00.0,Yong 484@abcmail.com,@Yong 48
+Western Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/02/07,18,E! Entertainment,1.76E+09,53:00.0,Kyle 64@abcmail.com,@Kyle 6
+Eastern Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/03/11,20,Supersport Live Events,1.76E+09,59:00.0,Michel 202@gmail.com,@Michel 20
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/31,18,Boomerang,1.76E+09,33:00.0,Randy 395@mailxyz.com,@Randy 39
+Gauteng,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),6,2016/03/04,8,ICC Cricket World Cup 2011,1.76E+09,27:00.0,Haywood 93@mail.com,@Haywood 9
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/03/05,17,Supersport Live Events,1.76E+09,23:00.0,Samuel 261@yahoo.com,@Samuel 26
+Gauteng,1,1,coloured,1,0,1,male,0.01,Adult (25-34),1,2016/01/24,21,Supersport Live Events,1.76E+09,33:00.0,Michel 201@yahoo.com,@Michel 20
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),2,2016/02/15,22,Supersport Live Events,1.76E+09,23:00.0,Dion 335@mailxyz.com,@Dion 33
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/01/26,22,Supersport Live Events,1.76E+09,44:00.0,Abel 181@yahoo.com,@Abel 18
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/02/06,8,Trace TV,1.76E+09,14:00.0,Stacy 271@yahoo.com,@Stacy 27
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/02/05,21,Channel O,1.76E+09,29:00.0,Jacinto 252@gmail.com,@Jacinto 25
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/02/23,22,Channel O,1.76E+09,53:00.0,Cory 105@mailxyz.com,@Cory 10
+Free State,1,1,white,1,0,1,male,0.01,Middle-Aged Adult (45-54),2,2016/03/28,10,Cartoon Network,1.76E+09,47:00.0,Eli 291@yahoo.com,@Eli 29
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),1,2016/03/13,19,E! Entertainment,1.76E+09,39:00.0,Haywood 95@mailxyz.com,@Haywood 9
+Gauteng,1,1,white,1,0,1,male,0.01,Adult (25-34),7,2016/03/26,10,Supersport Live Events,1.76E+09,04:00.0,Stacy 273@mail.com,@Stacy 27
+Western Cape,1,1,other,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/01/22,15,Cartoon Network,1.76E+09,23:00.0,Hyman 82@gmail.com,@Hyman 8
+Western Cape,1,1,white,1,0,1,male,0.01,Adult (25-34),5,2016/02/18,10,DStv Events 1,1.76E+09,18:00.0,Carter 33@mail.com,@Carter 3
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Youth (18-24),6,2016/02/05,5,Boomerang,1.76E+09,06:00.0,Efren 131@yahoo.com,@Efren 13
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/15,17,ICC Cricket World Cup 2011,1.76E+09,42:00.0,Cody 122@gmail.com,@Cody 12
+Kwazulu Natal,1,1,black,0,1,1,female,0.01,Adult (25-34),2,2016/03/28,16,Cartoon Network,1.76E+09,09:00.0,Loris 164@abcmail.com,@Loris 16
+Eastern Cape,1,1,white,1,0,1,male,0.01,Youth (18-24),2,2016/01/18,13,Boomerang,1.76E+09,02:00.0,Romeo 373@mail.com,@Romeo 37
+Mpumalanga,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),1,2016/01/31,12,Supersport Live Events,1.76E+09,42:00.0,Jared 503@mail.com,@Jared 50
+Kwazulu Natal,1,1,white,1,0,1,male,0.01,Adult (25-34),2,2016/01/11,22,MK,1.76E+09,46:00.0,Samuel 263@mail.com,@Samuel 26
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Kids (0-17),6,2016/03/11,18,ICC Cricket World Cup 2011,1.76E+09,08:00.0,Cody 122@gmail.com,@Cody 12
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/03/04,23,Africa Magic,1.76E+09,48:00.0,Dee 214@abcmail.com,@Dee 21
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/02/23,6,Trace TV,1.76E+09,58:00.0,Kip 145@mailxyz.com,@Kip 14
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/02/05,22,Vuzu,1.76E+09,16:00.0,Yong 483@mail.com,@Yong 48
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Middle-Aged Adult (45-54),7,2016/02/13,20,SuperSport Blitz,1.76E+09,20:00.0,Hollis 385@mailxyz.com,@Hollis 38
+Western Cape,1,1,black,0,1,1,female,0.01,Adult (25-34),7,2016/02/06,10,Boomerang,1.76E+09,53:00.0,Carlota 241@yahoo.com,@Carlota 24
+Free State,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/23,22,Vuzu,1.76E+09,25:00.0,Earl 422@gmail.com,@Earl 42
+Gauteng,1,1,white,1,0,1,male,0.01,Retired (55+),4,2016/01/13,16,Trace TV,1.76E+09,55:00.0,Stefan 465@mailxyz.com,@Stefan 46
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),1,2016/02/21,9,Boomerang,1.76E+09,35:00.0,Kip 144@abcmail.com,@Kip 14
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),3,2016/01/12,11,Africa Magic,1.76E+09,07:00.0,Cody 122@gmail.com,@Cody 12
+Eastern Cape,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/05,8,Supersport Live Events,1.76E+09,22:00.0,Loyd 494@abcmail.com,@Loyd 49
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/30,20,Boomerang,1.76E+09,32:00.0,Cody 122@gmail.com,@Cody 12
+North West,1,1,black,1,0,1,male,0.01,Youth (18-24),2,2016/03/21,22,Boomerang,1.76E+09,59:00.0,Loyd 494@abcmail.com,@Loyd 49
+Western Cape,1,1,None,0,1,1,female,0.01,Middle-Aged Adult (45-54),2,2016/03/07,20,Trace TV,1.76E+09,36:00.0,Alecia 164@abcmail.com,@Alecia 16
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/03/06,16,Supersport Live Events,1.76E+09,14:00.0,Wilburn 302@gmail.com,@Wilburn 30
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),3,2016/03/08,21,Boomerang,1.76E+09,53:00.0,Royal 175@mailxyz.com,@Royal 17
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/03/19,22,Supersport Live Events,1.76E+09,44:00.0,Stefan 464@abcmail.com,@Stefan 46
+Gauteng,1,1,None,0,1,1,female,0.01,Adult (25-34),3,2016/02/23,0,SuperSport Blitz,1.76E+09,29:00.0,Torrie 142@gmail.com,@Torrie 14
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/02/02,20,Supersport Live Events,1.76E+09,20:00.0,Dion 333@mail.com,@Dion 33
+Western Cape,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/03/26,15,Trace TV,1.76E+09,46:00.0,Dion 335@mailxyz.com,@Dion 33
+Kwazulu Natal,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/23,10,ICC Cricket World Cup 2011,1.76E+09,00:00.0,Hollis 385@mailxyz.com,@Hollis 38
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),3,2016/03/01,11,Trace TV,1.76E+09,04:00.0,Hollis 381@yahoo.com,@Hollis 38
+North West,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),5,2016/02/18,16,Africa Magic,1.76E+09,19:00.0,Claud 343@mail.com,@Claud 34
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/03/24,19,Channel O,1.76E+09,36:00.0,Filiberto 45@mailxyz.com,@Filiberto 4
+Northern Cape,1,1,coloured,1,0,1,male,0.01,Retired (55+),2,2016/01/11,10,SawSee,1.76E+09,25:00.0,Chas 355@mailxyz.com,@Chas 35
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),5,2016/02/18,9,Supersport Live Events,1.76E+09,55:00.0,Donald 221@yahoo.com,@Donald 22
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),7,2016/01/09,17,Supersport Live Events,1.76E+09,18:00.0,Lane 115@mailxyz.com,@Lane 11
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),7,2016/01/23,12,Channel O,1.76E+09,42:00.0,Charlie 361@yahoo.com,@Charlie 36
+Gauteng,1,1,other,1,0,1,male,0.01,Mature Adult (35-44),6,2016/01/08,15,SuperSport Blitz,1.76E+09,05:00.0,Eli 292@gmail.com,@Eli 29
+Eastern Cape,1,1,black,1,0,1,male,0.01,Youth (18-24),7,2016/02/13,23,Channel O,1.76E+09,39:00.0,Lane 111@yahoo.com,@Lane 11
+Eastern Cape,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),7,2016/01/23,12,Supersport Live Events,1.76E+09,34:00.0,Donald 222@gmail.com,@Donald 22
+Eastern Cape,1,1,white,0,1,1,female,0.01,Kids (0-17),4,2016/02/03,8,Boomerang,1.76E+09,43:00.0,Shelley 234@abcmail.com,@Shelley 23
+Limpopo,1,1,black,1,0,1,male,0.01,Youth (18-24),5,2016/03/24,9,CNN,1.76E+09,39:00.0,Wilton 411@yahoo.com,@Wilton 41
+Mpumalanga,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/01,13,SuperSport Blitz,1.76E+09,22:00.0,Art 404@abcmail.com,@Art 40
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/03/24,16,Supersport Live Events,1.76E+09,46:00.0,Kyle 61@yahoo.com,@Kyle 6
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),5,2016/03/24,16,Supersport Live Events,1.76E+09,31:00.0,Eli 292@gmail.com,@Eli 29
+Western Cape,1,1,white,0,1,1,female,0.01,Kids (0-17),6,2016/02/26,17,Supersport Live Events,1.76E+09,53:00.0,Dia 475@mailxyz.com,@Dia 47
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),3,2016/03/29,15,Trace TV,1.76E+09,52:00.0,Raymundo 435@mailxyz.com,@Raymundo 43
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),1,2016/01/03,14,CNN,1.76E+09,41:00.0,Robby 161@yahoo.com,@Robby 16
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/01/01,20,Boomerang,1.76E+09,54:00.0,Yong 483@mail.com,@Yong 48
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/02/06,16,Boomerang,1.76E+09,08:00.0,Lane 114@abcmail.com,@Lane 11
+Free State,1,1,coloured,0,1,1,female,0.01,Kids (0-17),7,2016/02/20,18,Cartoon Network,1.76E+09,51:00.0,Carlota 273@mail.com,@Carlota 27
+Mpumalanga,1,1,white,1,0,1,male,0.01,Youth (18-24),5,2016/02/11,16,Boomerang,1.76E+09,27:00.0,Raymundo 435@mailxyz.com,@Raymundo 43
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/02/25,4,SawSee,1.76E+09,35:00.0,Filiberto 44@abcmail.com,@Filiberto 4
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/20,16,ICC Cricket World Cup 2011,1.76E+09,02:00.0,Samuel 261@yahoo.com,@Samuel 26
+North West,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/18,21,SuperSport Blitz,1.76E+09,34:00.0,Royal 174@abcmail.com,@Royal 17
+Free State,1,1,black,1,0,1,male,0.01,Youth (18-24),1,2016/02/14,8,Channel O,1.76E+09,56:00.0,Jared 503@mail.com,@Jared 50
+Western Cape,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),3,2016/01/05,11,Supersport Live Events,1.76E+09,03:00.0,Stefan 463@mail.com,@Stefan 46
+North West,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/01/11,20,Trace TV,1.76E+09,29:00.0,Donald 223@mail.com,@Donald 22
+Kwazulu Natal,1,1,indian_asian,0,1,1,female,0.01,Adult (25-34),4,2016/03/30,10,ICC Cricket World Cup 2011,1.76E+09,41:00.0,Luanna 195@mailxyz.com,@Luanna 19
+Gauteng,1,1,None,1,0,1,male,0.01,Adult (25-34),7,2016/03/05,20,Supersport Live Events,1.76E+09,23:00.0,Claud 343@mail.com,@Claud 34
+Kwazulu Natal,1,1,black,1,0,1,male,0.01,Adult (25-34),2,2016/02/22,12,ICC Cricket World Cup 2011,1.76E+09,18:00.0,Randy 391@yahoo.com,@Randy 39
+Limpopo,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/03/12,22,SawSee,1.76E+09,39:00.0,Royal 174@abcmail.com,@Royal 17
+Gauteng,1,1,None,0,1,1,female,0.01,Adult (25-34),3,2016/01/05,2,Cartoon Network,1.76E+09,54:00.0,Torrie 142@gmail.com,@Torrie 14
+Gauteng,1,1,None,1,0,1,male,0.01,Adult (25-34),3,2016/01/12,10,Supersport Live Events,1.76E+09,43:00.0,Hyman 82@gmail.com,@Hyman 8
+Western Cape,1,1,coloured,1,0,1,male,0.01,Middle-Aged Adult (45-54),5,2016/03/24,21,Africa Magic,1.76E+09,57:00.0,Abel 182@gmail.com,@Abel 18
+Mpumalanga,1,1,black,0,1,1,female,0.01,Youth (18-24),4,2016/01/06,9,SawSee,1.76E+09,02:00.0,Katharina 135@mailxyz.com,@Katharina 13
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/25,19,Supersport Live Events,1.76E+09,43:00.0,Stacy 271@yahoo.com,@Stacy 27
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),6,2016/02/19,10,Supersport Live Events,1.76E+09,57:00.0,Hyman 85@mailxyz.com,@Hyman 8
+Gauteng,1,1,coloured,1,0,1,male,0.01,Adult (25-34),4,2016/03/02,16,ICC Cricket World Cup 2011,1.76E+09,49:00.0,Michel 201@yahoo.com,@Michel 20
+Western Cape,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/12,15,Vuzu,1.76E+09,24:00.0,Hugh15@mailxyz.com,@Hugh1
+Gauteng,1,1,black,1,0,1,male,0.01,Youth (18-24),1,2016/03/27,16,Trace TV,1.76E+09,43:00.0,Hyman 82@gmail.com,@Hyman 8
+Western Cape,1,1,None,1,0,1,male,0.01,Adult (25-34),3,2016/01/05,22,Supersport Live Events,1.76E+09,34:00.0,Efren 134@abcmail.com,@Efren 13
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/26,13,ICC Cricket World Cup 2011,1.76E+09,55:00.0,Stacy 275@mailxyz.com,@Stacy 27
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/06,15,Supersport Live Events,1.76E+09,58:00.0,Claud 344@abcmail.com,@Claud 34
+Limpopo,1,1,black,1,0,1,male,0.01,Youth (18-24),5,2016/01/21,13,Channel O,1.76E+09,33:00.0,Garry 284@abcmail.com,@Garry 28
+Gauteng,1,1,white,0,1,1,female,0.01,Mature Adult (35-44),6,2016/03/11,12,CNN,1.76E+09,30:00.0,Desirae 302@gmail.com,@Desirae 30
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),7,2016/03/19,12,CNN,1.76E+09,56:00.0,Minerva 184@abcmail.com,None
+Mpumalanga,1,1,white,1,0,1,male,0.01,Adult (25-34),6,2016/03/04,16,Cartoon Network,1.76E+09,19:00.0,Garry 285@mailxyz.com,@Garry 28
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Middle-Aged Adult (45-54),3,2016/03/29,11,ICC Cricket World Cup 2011,1.76E+09,13:00.0,Loyd 494@abcmail.com,@Loyd 49
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Retired (55+),4,2016/03/30,14,ICC Cricket World Cup 2011,1.76E+09,25:00.0,Chas 351@yahoo.com,@Chas 35
+Western Cape,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/29,12,Boomerang,1.76E+09,49:00.0,Garry 283@mail.com,@Garry 28
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),4,2016/03/23,12,ICC Cricket World Cup 2011,1.76E+09,20:00.0,Earl 424@abcmail.com,@Earl 42
+Mpumalanga,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),4,2016/03/09,15,ICC Cricket World Cup 2011,1.76E+09,18:00.0,Kyle 65@mailxyz.com,@Kyle 6
+Western Cape,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/24,19,Supersport Live Events,1.76E+09,40:00.0,Hugh15@mailxyz.com,@Hugh1
+Western Cape,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),4,2016/02/24,13,ICC Cricket World Cup 2011,1.76E+09,31:00.0,Romeo 374@abcmail.com,@Romeo 37
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Kids (0-17),7,2016/03/19,7,Cartoon Network,1.76E+09,10:00.0,Shane 22@gmail.com,@Shane 2
+Western Cape,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/03,10,ICC Cricket World Cup 2011,1.76E+09,29:00.0,Hyman 84@abcmail.com,@Hyman 8
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),2,2016/03/07,10,Africa Magic,1.76E+09,47:00.0,Stacy 273@mail.com,@Stacy 27
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),4,2016/03/30,14,ICC Cricket World Cup 2011,1.76E+09,38:00.0,Michel 202@gmail.com,@Michel 20
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/25,11,Supersport Live Events,1.76E+09,47:00.0,Dee 212@gmail.com,@Dee 21
+Gauteng,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/02/25,16,CNN,1.76E+09,06:00.0,Dee 215@mailxyz.com,@Dee 21
+North West,1,1,white,1,0,1,male,0.01,Adult (25-34),4,2016/02/24,10,ICC Cricket World Cup 2011,1.76E+09,44:00.0,Lucas 235@mailxyz.com,@Lucas 23
+Kwazulu Natal,1,1,indian_asian,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/24,14,Supersport Live Events,1.76E+09,33:00.0,Stacy 275@mailxyz.com,@Stacy 27
+Eastern Cape,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),1,2016/03/13,22,Africa Magic,1.76E+09,35:00.0,Stefan 461@yahoo.com,@Stefan 46
+Gauteng,1,1,black,1,0,1,male,0.01,Middle-Aged Adult (45-54),4,2016/01/13,15,Channel O,1.76E+09,32:00.0,Hyman 81@yahoo.com,@Hyman 8
+Gauteng,1,1,None,1,0,1,male,0.01,Mature Adult (35-44),3,2016/03/15,13,ICC Cricket World Cup 2011,1.76E+09,01:00.0,Randy 391@yahoo.com,@Randy 39
+Gauteng,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),5,2016/03/10,20,Cartoon Network,1.76E+09,55:00.0,Filiberto 41@yahoo.com,@Filiberto 4
+Free State,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/03/05,23,Cartoon Network,1.76E+09,02:00.0,Hyman 82@gmail.com,@Hyman 8
+Mpumalanga,1,1,white,1,0,1,male,0.01,Adult (25-34),4,2016/03/23,18,Supersport Live Events,1.76E+09,43:00.0,Donald 224@abcmail.com,@Donald 22
+Gauteng,1,1,black,0,1,1,female,0.01,Youth (18-24),2,2016/01/25,1,Boomerang,1.76E+09,01:00.0,Emilie 12@gmail.com,@Emilie 1
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),7,2016/03/05,7,Cartoon Network,1.76E+09,51:00.0,Charlie 362@gmail.com,@Charlie 36
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),3,2016/03/29,6,CNN,1.76E+09,51:00.0,Williemae 85@mailxyz.com,None
+Mpumalanga,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),6,2016/02/19,13,Supersport Live Events,1.76E+09,29:00.0,Charlie 362@gmail.com,@Charlie 36
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),1,2016/03/20,2,CNN,1.76E+09,16:00.0,Bret 314@abcmail.com,@Bret 31
+Mpumalanga,1,1,black,1,0,1,male,0.01,Youth (18-24),5,2016/03/03,9,Trace TV,1.76E+09,25:00.0,Abel 181@yahoo.com,@Abel 18
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),5,2016/01/21,13,Africa Magic,1.76E+09,19:00.0,Claud 345@mailxyz.com,@Claud 34
+Gauteng,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/01/23,9,Channel O,1.76E+09,07:00.0,Chas 355@mailxyz.com,@Chas 35
+Mpumalanga,1,1,black,0,1,1,female,0.01,Adult (25-34),7,2016/03/26,8,Supersport Live Events,1.76E+09,29:00.0,Tiffani 255@mailxyz.com,@Tiffani 25
+Free State,1,1,black,1,0,1,male,0.01,Adult (25-34),7,2016/02/27,9,Channel O,1.76E+09,56:00.0,Stefan 464@abcmail.com,@Stefan 46
+Gauteng,1,1,black,0,1,1,female,0.01,Adult (25-34),2,2016/03/28,12,SawSee,1.76E+09,13:00.0,Shandra 84@abcmail.com,@Shandra 8
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),6,2016/03/25,14,Trace TV,1.76E+09,07:00.0,Stefan 464@abcmail.com,@Stefan 46
+Eastern Cape,1,1,white,1,0,1,male,0.01,Youth (18-24),5,2016/03/31,11,E! Entertainment,1.76E+09,28:00.0,Romeo 373@mail.com,@Romeo 37
+Limpopo,1,1,black,1,0,1,male,0.01,Youth (18-24),4,2016/02/17,10,Cartoon Network,1.76E+09,54:00.0,Randy 391@yahoo.com,@Randy 39
+Free State,1,1,black,1,0,1,male,0.01,Youth (18-24),1,2016/03/27,11,Trace TV,1.76E+09,34:00.0,Emerson 245@mailxyz.com,@Emerson 24
+None,1,1,None,0,0,1,None,0.01,Kids (0-17),6,2016/01/29,19,M-Net,1.76E+09,11:00.0,Desirae 61@yahoo.com,None
+Gauteng,1,1,black,0,1,1,female,0.01,Adult (25-34),1,2016/02/28,12,Channel O,1.76E+09,22:00.0,Lesli 252@gmail.com,@Lesli 25
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Adult (25-34),1,2016/02/28,20,Trace TV,1.76E+09,31:00.0,Lucas 235@mailxyz.com,@Lucas 23
+Eastern Cape,1,1,white,1,0,1,male,0.01,Mature Adult (35-44),4,2016/02/24,12,ICC Cricket World Cup 2011,1.76E+09,51:00.0,Efren 135@mailxyz.com,@Efren 13
+Western Cape,1,1,coloured,1,0,1,male,0.01,Adult (25-34),1,2016/01/31,15,SuperSport Blitz,1.76E+09,11:00.0,Garry 281@yahoo.com,@Garry 28
+Gauteng,1,1,white,1,0,1,male,0.01,Youth (18-24),5,2016/03/10,15,Cartoon Network,1.76E+09,43:00.0,Raymundo 433@mail.com,@Raymundo 43
+Western Cape,1,1,coloured,1,0,1,male,0.01,Mature Adult (35-44),7,2016/03/12,12,ICC Cricket World Cup 2011,1.76E+09,28:00.0,Hugh11@yahoo.com,@Hugh1
+Mpumalanga,1,1,black,1,0,1,male,0.01,Adult (25-34),6,2016/03/04,20,Supersport Live Events,1.76E+09,23:00.0,Lane 115@mailxyz.com,@Lane 11
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Kids (0-17),6,2016/02/19,15,ICC Cricket World Cup 2011,1.76E+09,33:00.0,Lane 114@abcmail.com,@Lane 11
+Mpumalanga,1,1,white,1,0,1,male,0.01,Youth (18-24),2,2016/03/14,14,Trace TV,1.76E+09,27:00.0,Loyd 493@mail.com,@Loyd 49
+Limpopo,1,1,indian_asian,1,0,1,male,0.01,Youth (18-24),4,2016/03/30,10,ICC Cricket World Cup 2011,1.76E+09,33:00.0,Bernardo 324@abcmail.com,@Bernardo 32
+Western Cape,1,1,coloured,1,0,1,male,0.01,Retired (55+),1,2016/01/10,14,Supersport Live Events,1.76E+09,05:00.0,Samuel 261@yahoo.com,@Samuel 26
+Gauteng,1,1,None,0,1,1,female,0.01,Adult (25-34),2,2016/02/15,13,Cartoon Network,1.76E+09,00:00.0,Torrie 142@gmail.com,@Torrie 14
+North West,1,1,black,1,0,1,male,0.01,Mature Adult (35-44),5,2016/03/03,22,CNN,1.76E+09,50:00.0,Markus 194@abcmail.com,@Markus 19
